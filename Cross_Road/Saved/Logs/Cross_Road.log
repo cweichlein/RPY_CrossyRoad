@@ -717,3 +717,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.21-02.37.49:322][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
 [2019.11.21-02.37.49:404][205]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/tempMap4F7A37C345EA035853701791770CD809.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/tempMap.umap'
 [2019.11.21-02.37.49:441][205]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/tempMap_BuiltData95AE65774EF0B52B1F0336B63AFC4D71.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/tempMap_BuiltData.uasset'
+[2019.11.21-02.39.34:170][887]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/cop_car2A771773F40040B4CE1593095780951C6.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/cop_car2.uasset'
+[2019.11.21-02.39.34:261][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.11.21-02.39.34:291][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.11.21-02.39.34:318][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2019.11.21-02.39.34:530][898]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Meshes/cop_car2.cop_car2
+[2019.11.21-02.39.34:911][898]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.21-02.39.52:703][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-02.40.02:573][535]LogSlate: Window 'cop_car2' being destroyed
+[2019.11.21-02.40.02:579][535]LogSlate: Window 'cop_car2' being destroyed
+[2019.11.21-02.40.02:606][535]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
