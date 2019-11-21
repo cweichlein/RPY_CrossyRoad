@@ -702,3 +702,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.21-02.32.33:637][343]FBXImport: Warning: chicken has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
 [2019.11.21-02.34.55:164][795]LogSlate: Window 'Message Log' being destroyed
 [2019.11.21-02.34.55:174][795]LogSlate: Window 'Message Log' being destroyed
+[2019.11.21-02.37.29:891][567]LogSlate: Window 'Save Level As' being destroyed
+[2019.11.21-02.37.31:509][664]Cmd: SELECT NONE
+[2019.11.21-02.37.31:809][682]Cmd: SELECT NONE
+[2019.11.21-02.37.32:009][694]Cmd: SELECT NONE
+[2019.11.21-02.37.36:793][981]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.21-02.37.38:042][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-02.37.46:615][ 61]LogSlate: Window 'Save Level As' being destroyed
+[2019.11.21-02.37.46:702][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.11.21-02.37.46:734][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.11.21-02.37.46:830][ 61]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/tempMap989E26444378B27DB49A2A8D37B683B9.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/tempMap.umap'
+[2019.11.21-02.37.46:867][ 61]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/tempMap_BuiltDataA112D9DA4FC78E042781D79004093612.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/tempMap_BuiltData.uasset'
+[2019.11.21-02.37.46:875][ 61]LogFileHelpers: Saving map 'tempMap' took 0.247
+[2019.11.21-02.37.49:322][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.11.21-02.37.49:404][205]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/tempMap4F7A37C345EA035853701791770CD809.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/tempMap.umap'
+[2019.11.21-02.37.49:441][205]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/tempMap_BuiltData95AE65774EF0B52B1F0336B63AFC4D71.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/tempMap_BuiltData.uasset'
