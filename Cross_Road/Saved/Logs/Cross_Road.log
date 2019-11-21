@@ -727,3 +727,91 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.21-02.40.02:573][535]LogSlate: Window 'cop_car2' being destroyed
 [2019.11.21-02.40.02:579][535]LogSlate: Window 'cop_car2' being destroyed
 [2019.11.21-02.40.02:606][535]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-02.40.33:096][ 12]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Meshes/dark_grass-1.dark_grass-1
+[2019.11.21-02.40.35:927][153]LogAssetEditorManager: Opening Asset editor for StaticMesh /Engine/EngineMeshes/Cube.Cube
+[2019.11.21-02.40.35:941][153]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2019.11.21-02.40.36:204][153]LogSlate: Window 'Tutorials' being destroyed
+[2019.11.21-02.40.36:236][154]LogRenderer: Reallocating scene render targets to support 964x488 Format 10 NumSamples 1 (Frame:1).
+[2019.11.21-02.40.40:505][390]LogSlate: Window 'Cube' being destroyed
+[2019.11.21-02.40.40:509][390]LogSlate: Window 'Cube' being destroyed
+[2019.11.21-02.40.40:526][390]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-02.40.40:632][390]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-02.40.53:585][160]LogEditorFactories: Performing atomic reimport of [C:/Users/handb/Desktop/Voxel assets/chicken.obj]
+[2019.11.21-02.40.53:608][160]LogFbx: Loading FBX Scene from C:/Users/handb/Desktop/Voxel assets/chicken.obj
+[2019.11.21-02.40.53:611][160]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.21-02.40.53:624][160]LogStaticMesh: Building static mesh chicken...
+[2019.11.21-02.40.53:625][160]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Meshes/chicken.chicken
+[2019.11.21-02.40.53:627][160]LogStaticMesh: Warning: chicken has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.21-02.40.53:627][160]LogStaticMesh: Warning: chicken has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.21-02.40.53:634][160]LogEditorFactories: -- imported successfully
+[2019.11.21-02.40.53:637][160]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.21-02.40.53:637][160]FBXImport: Warning: chicken has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.21-02.40.53:637][160]FBXImport: Warning: chicken has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.21-02.41.37:006][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/1" FILE="../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/1.uasset" SILENT=true
+[2019.11.21-02.41.37:020][146]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/1F0535118424E5B1C6D6D6D92D3B22E0B.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/1.uasset'
+[2019.11.21-02.41.37:115][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.11.21-02.41.37:143][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.11.21-02.41.37:168][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.11.21-02.41.43:906][545]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/coinF83D94C04528579C916146BE13AFCAEF.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/coin.uasset'
+[2019.11.21-02.41.43:994][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.11.21-02.41.44:024][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.11.21-02.41.44:047][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2019.11.21-02.42.05:696][836]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/chicken2814C1534FF5E685053D55BB1E886EE5.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/chicken.uasset'
+[2019.11.21-02.42.05:729][836]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/dark_grass-08F0867A64AAADA54814907B33B5BB7E7.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/dark_grass-0.uasset'
+[2019.11.21-02.42.05:761][836]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/dark_grass-1345BC1D54F9E33EF0FE8BC87FB981ACA.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/dark_grass-1.uasset'
+[2019.11.21-02.42.05:796][836]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/dark_grass-22CA5D04343A3E64B130CFF8C3AC69A1D.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/dark_grass-2.uasset'
+[2019.11.21-02.42.05:829][836]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/light_grass99C1984C4FF76E3AFA86F7A07CCC360D.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/light_grass.uasset'
+[2019.11.21-02.42.05:864][836]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/RR_sign628FBFE14F719470B05D009F13E3B3E1.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/RR_sign.uasset'
+[2019.11.21-02.42.05:897][836]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/dark_grassFF112E834E14B67C8FB00C9153C2DC4E.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/dark_grass.uasset'
+[2019.11.21-02.42.05:932][836]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/RR_trackE431D3A144E92C9AE52339A58C3D7043.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/RR_track.uasset'
+[2019.11.21-02.42.05:964][836]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/Tree_SD54AF1884F205FA11F1187B368042598.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/Tree_S.uasset'
+[2019.11.21-02.42.05:998][836]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/Tree_MC671131B4E7F6C6EAB0ECF80691C53D1.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/Tree_M.uasset'
+[2019.11.21-02.42.06:030][836]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/Tree_LD48A0861494C9D09F3B7BE9CF831BA15.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/Tree_L.uasset'
+[2019.11.21-02.42.06:042][836]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/Tree_XL1ECFC6F16463AC074F38AE093AF498F53.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/Tree_XL1.uasset'
+[2019.11.21-02.42.06:078][836]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/paletteA3BCBEBE4419E9C3A53F9096968FDF00.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/palette.uasset'
+[2019.11.21-02.42.06:111][836]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/Tree_XL0B069CBD404241887ECD78AEDE5D69F1.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/Tree_XL.uasset'
+[2019.11.21-02.42.26:556][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.11.21-02.42.28:195][ 53]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.21-02.42.28:277][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.11.21-02.42.28:308][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.11.21-02.42.28:335][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.11.21-02.42.30:397][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.11.21-02.42.31:591][175]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.21-02.42.31:671][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.11.21-02.42.31:702][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.11.21-02.42.31:728][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.11.21-02.42.33:378][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.11.21-02.42.34:471][273]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.21-02.42.34:552][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.11.21-02.42.34:583][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.11.21-02.42.34:611][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.11.21-02.42.49:140][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.11.21-02.42.50:595][138]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.21-02.42.50:705][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.11.21-02.42.50:735][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.11.21-02.42.50:763][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.11.21-02.43.14:509][197]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/handb/Desktop/Voxel assets/RR_track.obj)
+[2019.11.21-02.43.14:517][197]LogFbx: Loading FBX Scene from ../../../../../../Users/handb/Desktop/Voxel assets/RR_track.obj
+[2019.11.21-02.43.14:522][197]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.21-02.43.16:235][197]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.21-02.43.16:290][197]LogStaticMesh: Building static mesh RR_track...
+[2019.11.21-02.43.16:296][197]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Meshes/RR_track.RR_track
+[2019.11.21-02.43.16:301][197]LogStaticMesh: Warning: RR_track has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.21-02.43.16:301][197]LogStaticMesh: Warning: RR_track has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.21-02.43.16:315][197]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.21-02.43.16:315][197]FBXImport: Warning: RR_track has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.21-02.43.16:315][197]FBXImport: Warning: RR_track has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.21-02.43.21:068][466]LogSlate: Window 'Message Log' being destroyed
+[2019.11.21-02.43.21:073][466]LogSlate: Window 'Message Log' being destroyed
+[2019.11.21-02.43.22:207][534]LogActorFactory: Actor Factory created RR_track
+[2019.11.21-02.43.22:799][569]LogActorFactory: Actor Factory created RR_track
+[2019.11.21-02.43.28:809][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-02.44.40:006][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.21-02.44.46:346][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.21-02.45.48:795][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-02.45.48:922][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.11.21-02.45.51:294][287]LogSlate: Window 'Save Content' being destroyed
+[2019.11.21-02.45.51:365][287]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/RR_trackAC89362A42D82335DC7F25858E2EE16D.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/Assets/Meshes/RR_track.uasset'
+[2019.11.21-02.45.51:398][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.11.21-02.45.51:490][287]LogSavePackage: Moving '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Saved/tempMap8AB6FC25421728C91F656996F1D49EB3.tmp' to '../../../../../../Users/handb/Desktop/CPSC Projects/CPSC 386/Crossy-Road/RPY_CrossyRoad/Cross_Road/Content/tempMap.umap'
+[2019.11.21-02.45.51:513][287]LogFileHelpers: Saving map 'tempMap' took 0.143
