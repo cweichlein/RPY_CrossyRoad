@@ -1,0 +1,1425 @@
+﻿Log file open, 12/07/19 12:36:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: InfiniteMatrix
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.124907
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Engine.ini]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Engine.ini]
+[2019.12.07-20.36.31:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Engine.ini]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Engine.ini]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.07-20.36.31:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Engine.ini]
+[2019.12.07-20.36.31:679][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Engine.ini]
+[2019.12.07-20.36.31:681][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-20.36.31:681][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.07-20.36.31:681][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.07-20.36.31:681][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-20.36.31:681][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.07-20.36.31:681][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-20.36.31:681][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.07-20.36.31:681][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.07-20.36.31:681][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.07-20.36.31:681][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.07-20.36.31:681][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.07-20.36.31:681][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.07-20.36.31:681][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.07-20.36.31:681][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.07-20.36.31:682][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.07-20.36.31:683][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-20.36.31:683][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.07-20.36.31:683][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.07-20.36.31:683][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.07-20.36.31:683][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.07-20.36.31:683][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.07-20.36.31:683][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.07-20.36.31:683][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.07-20.36.31:683][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.07-20.36.31:683][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.07-20.36.31:683][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.07-20.36.31:683][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.07-20.36.31:683][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.07-20.36.31:683][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.07-20.36.31:683][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-20.36.31:683][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.07-20.36.31:683][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.07-20.36.31:683][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.07-20.36.31:683][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.07-20.36.31:687][  0]LogHAL: Display: Platform has ~ 8 GB [8469581824 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.07-20.36.31:687][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.07-20.36.31:687][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-20.36.31:687][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2019.12.07-20.36.31:687][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2019.12.07-20.36.31:687][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-20.36.31:687][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2019.12.07-20.36.31:687][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-20.36.31:687][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2019.12.07-20.36.31:687][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2019.12.07-20.36.31:687][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.12.07-20.36.31:687][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2019.12.07-20.36.31:687][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2019.12.07-20.36.31:687][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2019.12.07-20.36.31:687][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2019.12.07-20.36.31:687][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2019.12.07-20.36.31:687][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.12.07-20.36.31:687][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.12.07-20.36.31:687][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2019.12.07-20.36.31:688][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.07-20.36.31:689][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.07-20.36.31:689][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.07-20.36.31:689][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Config/Windows/Engine.ini]
+[2019.12.07-20.36.31:689][  0]LogInit: Computer: LAPTOP-EAKSHQT9
+[2019.12.07-20.36.31:689][  0]LogInit: User: Catzenjammers
+[2019.12.07-20.36.31:689][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.12.07-20.36.31:689][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.07-20.36.31:689][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.07-20.36.31:689][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.07-20.36.31:689][  0]LogMemory: Process Physical Memory: 100.63 MB used, 100.63 MB peak
+[2019.12.07-20.36.31:689][  0]LogMemory: Process Virtual Memory: 99.96 MB used, 99.96 MB peak
+[2019.12.07-20.36.31:689][  0]LogMemory: Physical Memory: 5423.71 MB used,  2653.52 MB free, 8077.22 MB total
+[2019.12.07-20.36.31:689][  0]LogMemory: Virtual Memory: 4651.55 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.12.07-20.36.31:693][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.07-20.36.31:721][  0]LogInit: Using OS detected language (en-US).
+[2019.12.07-20.36.31:721][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.07-20.36.31:722][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.07-20.36.31:999][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.07-20.36.32:064][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.07-20.36.32:064][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.07-20.36.32:335][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.07-20.36.32:335][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.07-20.36.32:363][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.12.07-20.36.32:363][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.12.07-20.36.32:367][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.07-20.36.32:367][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.07-20.36.32:367][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.07-20.36.32:375][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.07-20.36.32:376][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.07-20.36.32:376][  0]LogWindows: EnumDisplayDevices:
+[2019.12.07-20.36.32:376][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.12.07-20.36.32:376][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.12.07-20.36.32:377][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.12.07-20.36.32:377][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.12.07-20.36.32:377][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2019.12.07-20.36.32:377][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
+[2019.12.07-20.36.32:377][  0]LogD3D11RHI:      Driver Date: 2-28-2018
+[2019.12.07-20.36.32:377][  0]LogRHI: Texture pool is 1503 MB (70% of 2147 MB)
+[2019.12.07-20.36.32:400][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.07-20.36.32:407][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.12.07-20.36.32:928][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.07-20.36.32:943][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.07-20.36.32:961][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.07-20.36.32:980][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.07-20.36.32:997][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.07-20.36.33:014][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.07-20.36.33:032][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.07-20.36.33:044][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.07-20.36.33:051][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.07-20.36.33:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.07-20.36.33:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.07-20.36.33:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.07-20.36.33:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.07-20.36.33:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.07-20.36.33:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.07-20.36.33:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.07-20.36.33:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.07-20.36.33:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.07-20.36.33:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.07-20.36.33:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.07-20.36.33:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.07-20.36.33:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.07-20.36.33:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.07-20.36.33:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.07-20.36.33:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.07-20.36.33:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.07-20.36.33:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.07-20.36.33:108][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.07-20.36.33:132][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.07-20.36.33:132][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.07-20.36.33:154][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.07-20.36.33:154][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.07-20.36.33:169][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.07-20.36.33:182][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.07-20.36.33:194][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.07-20.36.33:207][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.07-20.36.33:253][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.07-20.36.33:253][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.07-20.36.33:253][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.07-20.36.33:272][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.07-20.36.33:378][  0]LogShaderCompilers: Guid format shader working directory is -46 characters bigger than the processId version (../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Intermediate/Shaders/WorkingDirectory/11920/).
+[2019.12.07-20.36.33:378][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Catzenjammers/AppData/Local/Temp/UnrealShaderWorkingDir/AEEFE43D4D088274D31D88A201DB8936/'.
+[2019.12.07-20.36.33:383][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.07-20.36.33:383][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.07-20.36.33:383][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.07-20.36.34:272][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.07-20.36.34:342][  0]LogDerivedDataCache: Loaded boot cache 0.07s 73MB C:/Users/Catzenjammers/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.07-20.36.34:342][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Catzenjammers/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.07-20.36.34:342][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.07-20.36.34:342][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.07-20.36.34:343][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.07-20.36.34:343][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.07-20.36.34:359][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.07-20.36.34:359][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.07-20.36.34:359][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.07-20.36.34:360][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Catzenjammers/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.07-20.36.34:360][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.07-20.36.34:360][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.07-20.36.34:391][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.07-20.36.34:395][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.07-20.36.34:396][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.07-20.36.34:475][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2019.12.07-20.36.34:874][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.07-20.36.35:085][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.07-20.36.35:085][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.07-20.36.35:085][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.07-20.36.35:085][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.07-20.36.35:085][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.07-20.36.35:098][  0]LogNetVersion: InfiniteMatrix 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2136420663)
+[2019.12.07-20.36.35:683][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.076479 seconds
+[2019.12.07-20.36.35:692][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.07-20.36.35:693][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.07-20.36.35:693][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.07-20.36.36:857][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.07-20.36.36:860][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.07-20.36.36:928][  0]SourceControl: Source control is disabled
+[2019.12.07-20.36.36:928][  0]SourceControl: Source control is disabled
+[2019.12.07-20.36.36:930][  0]SourceControl: Source control is disabled
+[2019.12.07-20.36.36:931][  0]SourceControl: Source control is disabled
+[2019.12.07-20.36.37:047][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.07-20.36.37:187][  0]LogOcInput: OculusInput pre-init called
+[2019.12.07-20.36.37:197][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.07-20.36.37:197][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.07-20.36.37:293][  0]LogEngine: Initializing Engine...
+[2019.12.07-20.36.37:294][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.07-20.36.37:295][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.07-20.36.37:608][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.07-20.36.37:637][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.07-20.36.37:651][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.07-20.36.37:758][  0]LogInit: FAudioDevice initialized.
+[2019.12.07-20.36.37:758][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.07-20.36.38:258][  0]LogDerivedDataCache: Saved boot cache 0.50s 73MB C:/Users/Catzenjammers/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.07-20.36.38:270][  0]LogInit: Texture streaming: Enabled
+[2019.12.07-20.36.38:296][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.07-20.36.38:296][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.07-20.36.38:332][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.07-20.36.38:480][  0]LogInit: Transaction tracking system initialized
+[2019.12.07-20.36.38:527][  0]BlueprintLog: New page: Editor Load
+[2019.12.07-20.36.38:639][  0]LocalizationService: Localization service is disabled
+[2019.12.07-20.36.39:766][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/' took 0.00s
+[2019.12.07-20.36.39:766][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.07-20.36.39:767][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.07-20.36.40:058][  0]SourceControl: Source control is disabled
+[2019.12.07-20.36.40:059][  0]LightingResults: New page: Lighting Build
+[2019.12.07-20.36.40:064][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-20.36.40:065][  0]MapCheck: New page: Map Check
+[2019.12.07-20.36.40:065][  0]LightingResults: New page: Lighting Build
+[2019.12.07-20.36.40:091][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.12.07-20.36.40:195][  0]LogAIModule: Creating AISystem for world TutorialMap
+[2019.12.07-20.36.40:200][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.07-20.36.40:231][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.12.07-20.36.40:232][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.07-20.36.40:232][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.198ms to complete.
+[2019.12.07-20.36.40:232][  0]LogFileHelpers: Loading map 'TutorialMap' took 0.173
+[2019.12.07-20.36.40:382][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-20.36.40:393][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-20.36.40:403][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-20.36.40:414][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-20.36.40:424][  0]LogCollectionManager: Loaded 0 collections in 0.003021 seconds
+[2019.12.07-20.36.40:432][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Collections/' took 0.00s
+[2019.12.07-20.36.40:432][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/Developers/Catzenjammers/Collections/' took 0.00s
+[2019.12.07-20.36.40:432][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/Collections/' took 0.00s
+[2019.12.07-20.36.40:432][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2019.12.07-20.36.40:444][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2863 classes and 680 folders.
+[2019.12.07-20.36.40:454][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.12.07-20.36.40:508][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.07-20.36.40:515][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.07-20.36.40:596][  0]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.07-20.36.40:599][  0]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.07-20.36.40:611][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.07-20.36.40:716][  0]LogRenderer: Reallocating scene render targets to support 748x372 Format 9 NumSamples 1 (Frame:1).
+[2019.12.07-20.36.40:867][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.07-20.36.40:868][  0]LogLoad: (Engine Initialization) Total time: 10.82 seconds
+[2019.12.07-20.36.40:868][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.07-20.36.41:444][  0]LogContentStreaming: Texture pool size now 400 MB
+[2019.12.07-20.36.41:476][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.07-20.36.41:530][  1]LogAssetRegistry: Asset discovery search completed in 7.0563 seconds
+[2019.12.07-20.36.41:538][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2019.12.07-20.36.41:538][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2019.12.07-20.37.40:885][189]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C6B28308-4708-ADD3-2757-9CA3DBB9662A}
+[2019.12.07-20.37.40:969][192]LogHttp: Warning: 00000224047CB100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.07-20.37.40:969][192]LogHttp: Warning: 00000224047CB100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.07-20.37.40:969][192]LogHttp: Warning: 00000224047CB100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.07-20.37.40:969][192]LogHttp: Warning: 00000224047CB100: libcurl info message cache 1 (Closing connection 0)
+[2019.12.07-20.37.40:969][192]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.07-20.38.47:820][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-20.38.47:953][561]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-20.38.47:983][561]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-20.38.47:983][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-20.38.47:984][561]PIE: New page: PIE session: TutorialMap (Dec 7, 2019, 4:38:47 AM)
+[2019.12.07-20.38.47:985][561]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.07-20.38.47:987][561]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.07-20.38.47:990][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003093s)
+[2019.12.07-20.38.47:991][561]LogAIModule: Creating AISystem for world TutorialMap
+[2019.12.07-20.38.47:992][561]LogPlayLevel: PIE: World Init took: (0.001874s)
+[2019.12.07-20.38.47:992][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005406s)
+[2019.12.07-20.38.48:021][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.12.07-20.38.48:032][561]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.07-20.38.48:057][561]LogInit: FAudioDevice initialized.
+[2019.12.07-20.38.48:077][561]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.12.07-20.38.48:079][561]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2019.12.07-12.38.48
+[2019.12.07-20.38.48:080][561]LogWorld: Bringing up level for play took: 0.001042
+[2019.12.07-20.38.48:080][561]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.12.07-20.38.48:096][561]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.12.07-20.38.48:105][561]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.479
+[2019.12.07-20.38.48:106][561]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-20.38.53:621][885]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-20.38.53:622][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-20.38.53:622][885]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.07-20.38.53:623][885]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-20.38.53:636][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-20.38.53:636][885]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-20.38.53:682][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-20.38.53:688][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.12.07-20.38.53:725][886]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.12.07-20.38.56:153][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-20.38.56:380][991]LogSlate: Took 0.000562 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.07-20.38.56:393][991]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2019.12.07-20.38.56:990][991]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 121 classes and 0 folders.
+[2019.12.07-20.38.58:520][991]LogSlate: Took 0.000439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.07-20.38.58:668][992]LogSlate: Took 0.001090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.07-20.39.10:895][322]BlueprintLog: New page: Compile BP_Player
+[2019.12.07-20.39.11:326][322]LogUObjectHash: Compacting FUObjectHashTables data took   8.18ms
+[2019.12.07-20.39.13:027][370]LogSlate: Window 'BP_Player' being destroyed
+[2019.12.07-20.39.13:037][370]LogSlate: Window 'BP_Player' being destroyed
+[2019.12.07-20.39.13:101][370]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-20.39.15:456][463]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-20.39.15:490][463]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-20.39.15:490][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-20.39.15:490][463]PIE: New page: PIE session: TutorialMap (Dec 7, 2019, 4:39:15 AM)
+[2019.12.07-20.39.15:490][463]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.07-20.39.15:493][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003439s)
+[2019.12.07-20.39.15:495][463]LogAIModule: Creating AISystem for world TutorialMap
+[2019.12.07-20.39.15:495][463]LogPlayLevel: PIE: World Init took: (0.001408s)
+[2019.12.07-20.39.15:495][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005023s)
+[2019.12.07-20.39.15:534][463]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2019.12.07-20.39.15:541][463]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.07-20.39.15:563][463]LogInit: FAudioDevice initialized.
+[2019.12.07-20.39.15:571][463]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.12.07-20.39.15:572][463]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2019.12.07-12.39.15
+[2019.12.07-20.39.15:572][463]LogWorld: Bringing up level for play took: 0.000759
+[2019.12.07-20.39.15:572][463]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.07-20.39.15:581][463]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.997
+[2019.12.07-20.39.15:582][463]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-20.39.24:960][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-20.39.24:960][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-20.39.24:960][ 12]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.07-20.39.24:961][ 12]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-20.39.24:977][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-20.39.24:977][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-20.39.25:046][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-20.39.25:056][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   8.27ms
+[2019.12.07-20.39.25:092][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.07-20.39.35:827][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-20.39.35:927][181]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-20.39.35:962][181]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-20.39.35:963][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-20.39.35:963][181]PIE: New page: PIE session: TutorialMap (Dec 7, 2019, 4:39:35 AM)
+[2019.12.07-20.39.35:963][181]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.07-20.39.35:965][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002699s)
+[2019.12.07-20.39.35:967][181]LogAIModule: Creating AISystem for world TutorialMap
+[2019.12.07-20.39.35:967][181]LogPlayLevel: PIE: World Init took: (0.001365s)
+[2019.12.07-20.39.35:967][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004250s)
+[2019.12.07-20.39.36:006][181]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.12.07-20.39.36:014][181]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.07-20.39.36:037][181]LogInit: FAudioDevice initialized.
+[2019.12.07-20.39.36:054][181]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.12.07-20.39.36:056][181]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2019.12.07-12.39.36
+[2019.12.07-20.39.36:057][181]LogWorld: Bringing up level for play took: 0.000928
+[2019.12.07-20.39.36:057][181]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.12.07-20.39.36:066][181]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.518
+[2019.12.07-20.39.36:066][181]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-20.39.41:010][470]LogHttp: Warning: 00000224052F5D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.07-20.39.41:010][470]LogHttp: Warning: 00000224052F5D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.07-20.39.41:010][470]LogHttp: Warning: 00000224052F5D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.07-20.39.41:010][470]LogHttp: Warning: 00000224052F5D00: libcurl info message cache 1 (Closing connection 1)
+[2019.12.07-20.39.41:010][470]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.07-20.39.51:231][ 69]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-20.39.51:232][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-20.39.51:232][ 69]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.07-20.39.51:233][ 69]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-20.39.51:258][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-20.39.51:258][ 69]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-20.39.51:377][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-20.39.51:390][ 69]LogUObjectHash: Compacting FUObjectHashTables data took  10.36ms
+[2019.12.07-20.39.51:440][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.07-20.41.41:665][  6]LogHttp: Warning: 00000224052F7240: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.07-20.41.41:665][  6]LogHttp: Warning: 00000224052F7240: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.07-20.41.41:665][  6]LogHttp: Warning: 00000224052F7240: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.07-20.41.41:665][  6]LogHttp: Warning: 00000224052F7240: libcurl info message cache 1 (Closing connection 2)
+[2019.12.07-20.41.41:665][  6]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.07-20.43.42:262][269]LogHttp: Warning: 00000224052F6E80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.07-20.43.42:263][269]LogHttp: Warning: 00000224052F6E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.07-20.43.42:263][269]LogHttp: Warning: 00000224052F6E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.07-20.43.42:263][269]LogHttp: Warning: 00000224052F6E80: libcurl info message cache 1 (Closing connection 3)
+[2019.12.07-20.43.42:600][270]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.07-20.45.43:119][629]LogHttp: Warning: 00000224052F6E80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.07-20.45.43:119][629]LogHttp: Warning: 00000224052F6E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.07-20.45.43:120][629]LogHttp: Warning: 00000224052F6E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.07-20.45.43:120][629]LogHttp: Warning: 00000224052F6E80: libcurl info message cache 1 (Closing connection 4)
+[2019.12.07-20.45.43:453][630]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.07-20.46.42:111][804]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={4733E8B6-4C5C-99CD-5237-ECBCC6688606}
+[2019.12.07-20.47.11:696][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.12.07-20.47.11:696][892]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.047
+[2019.12.07-20.47.11:698][892]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([1] browsable assets)...
+[2019.12.07-20.47.11:720][892]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player]
+[2019.12.07-20.47.11:720][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2019.12.07-20.47.11:781][892]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/BP_Player_Auto1CECD27724D82D222A2FB42987A91DC49.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto1.uasset'
+[2019.12.07-20.47.11:783][892]LogFileHelpers: Auto-saving content packages took 0.086
+[2019.12.07-20.47.33:747][958]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.07-20.47.38:599][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-20.47.38:867][178]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Strip.BP_Strip
+[2019.12.07-20.47.43:491][289]LogHttp: Warning: 00000224443F9440: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.07-20.47.43:491][289]LogHttp: Warning: 00000224443F9440: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.07-20.47.43:491][289]LogHttp: Warning: 00000224443F9440: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.07-20.47.43:491][289]LogHttp: Warning: 00000224443F9440: libcurl info message cache 1 (Closing connection 5)
+[2019.12.07-20.47.43:517][290]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.07-20.47.43:767][298]LogRenderer: Reallocating scene render targets to support 808x460 Format 9 NumSamples 1 (Frame:1).
+[2019.12.07-20.49.43:961][ 38]LogHttp: Warning: 00000224443F8400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.07-20.49.43:961][ 38]LogHttp: Warning: 00000224443F8400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.07-20.49.43:961][ 38]LogHttp: Warning: 00000224443F8400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.07-20.49.43:961][ 38]LogHttp: Warning: 00000224443F8400: libcurl info message cache 1 (Closing connection 6)
+[2019.12.07-20.49.43:962][ 38]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.07-20.51.44:385][397]LogHttp: Warning: 00000224443F8400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.07-20.51.44:385][397]LogHttp: Warning: 00000224443F8400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.07-20.51.44:385][397]LogHttp: Warning: 00000224443F8400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.07-20.51.44:385][397]LogHttp: Warning: 00000224443F8400: libcurl info message cache 1 (Closing connection 7)
+[2019.12.07-20.51.44:723][398]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.07-20.53.45:186][803]LogHttp: Warning: 0000022410A0B600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.07-20.53.45:186][803]LogHttp: Warning: 0000022410A0B600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.07-20.53.45:187][803]LogHttp: Warning: 0000022410A0B600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.07-20.53.45:187][803]LogHttp: Warning: 0000022410A0B600: libcurl info message cache 1 (Closing connection 8)
+[2019.12.07-20.53.45:526][804]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.07-21.33.19:012][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-21.33.49:280][813]BlueprintLog: New page: Compile BP_Strip
+[2019.12.07-21.33.49:604][813]LogUObjectHash: Compacting FUObjectHashTables data took   8.40ms
+[2019.12.07-21.34.23:806][325]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2019.12.07-21.34.23:806][325]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.054
+[2019.12.07-21.34.23:808][325]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Strip] ([1] browsable assets)...
+[2019.12.07-21.34.23:828][325]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Strip.BP_Strip]
+[2019.12.07-21.34.23:828][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Strip]
+[2019.12.07-21.34.23:980][325]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/BP_Strip_Auto295265D2447425ACD36E6C39DCF0264A1.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Strip_Auto2.uasset'
+[2019.12.07-21.34.23:981][325]LogFileHelpers: Auto-saving content packages took 0.174
+[2019.12.07-21.39.13:644][787]BlueprintLog: New page: Compile BP_Strip
+[2019.12.07-21.39.13:932][787]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2019.12.07-21.39.16:143][874]LogSlate: Window 'BP_Strip' being destroyed
+[2019.12.07-21.39.16:153][874]LogSlate: Window 'BP_Strip' being destroyed
+[2019.12.07-21.39.16:173][874]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.39.47:581][696]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Catzenjammers/3D Objects/sprites/grassDark/grassDark.obj)
+[2019.12.07-21.39.47:602][696]LogFbx: Loading FBX Scene from ../../../../../../Users/Catzenjammers/3D Objects/sprites/grassDark/grassDark.obj
+[2019.12.07-21.39.47:604][696]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.07-21.39.49:655][696]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.07-21.39.49:896][696]LogLinker: Failed to load '/Game/grassDark': Can't find file.
+[2019.12.07-21.39.49:900][696]LogTexture: Display: Building textures: grassDark1 (BGRA8, 256X1)
+[2019.12.07-21.39.49:912][696]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.12.07-21.39.49:993][696]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2019.12.07-21.39.49:993][696]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.12.07-21.39.49:993][696]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.12.07-21.39.49:999][696]LogStaticMesh: Building static mesh grassDark...
+[2019.12.07-21.39.50:006][696]LogStaticMesh: Built static mesh [0.01s] /Game/grassDark.grassDark
+[2019.12.07-21.39.50:007][696]LogStaticMesh: Warning: grassDark has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.07-21.39.50:007][696]LogStaticMesh: Warning: grassDark has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.07-21.39.50:014][696]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.07-21.39.50:015][696]FBXImport: Warning: grassDark has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.07-21.39.50:015][696]FBXImport: Warning: grassDark has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.07-21.39.52:578][759]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-21.39.52:589][759]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-21.40.11:835][328]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/palette_grassDarkF8EE1A994E810189AAC2EE9A480CB462.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/palette_grassDark.uasset'
+[2019.12.07-21.40.12:123][328]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2019.12.07-21.40.12:200][328]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.12.07-21.40.12:231][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.12.07-21.40.26:398][842]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/grassDark1ED7B0774F512CDCC1110EABD85DFD38.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/grassDark.uasset'
+[2019.12.07-21.40.26:628][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.12.07-21.40.26:673][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.12.07-21.40.26:710][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.12.07-21.40.36:032][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/grassDark" FILE="../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/grassDark.uasset" SILENT=true
+[2019.12.07-21.40.36:071][210]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/grassDark945F668748333943E3039590ABD3AC1A.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/grassDark.uasset'
+[2019.12.07-21.40.36:302][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.12.07-21.40.36:354][210]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2019.12.07-21.40.36:392][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.12.07-21.40.36:440][210]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/palette_grassDark1879C0DC4BA7C14F9CD0E7A03EEC8032.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/palette_grassDark.uasset'
+[2019.12.07-21.40.41:482][407]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/grassDarkCAD644D6402782F5CB2706B1EEFAA253.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/grassDark.uasset'
+[2019.12.07-21.40.41:716][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.12.07-21.40.41:764][407]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.12.07-21.40.41:803][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.12.07-21.40.41:844][407]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/palette_grassDark1087E8474EAE76216DE1358DFA3093AF.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/palette_grassDark.uasset'
+[2019.12.07-21.40.48:459][682]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/palette_grassDark03CB42FA4040089742F5D7854B275898.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/palette_grassDark.uasset'
+[2019.12.07-21.40.48:680][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.12.07-21.40.48:732][682]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.12.07-21.40.48:767][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.12.07-21.40.48:818][682]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/grassDarkBA2DC3D94FD6AF7E7E53F9B54A4C04D3.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/grassDark.uasset'
+[2019.12.07-21.40.56:500][993]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/grass.grass
+[2019.12.07-21.40.58:340][993]LogRenderer: Reallocating scene render targets to support 1016x608 Format 9 NumSamples 1 (Frame:1).
+[2019.12.07-21.41.03:803][109]LogSlate: Window 'grass' being destroyed
+[2019.12.07-21.41.03:818][109]LogSlate: Window 'grass' being destroyed
+[2019.12.07-21.41.03:884][109]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.41.05:363][134]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/grassDark.grassDark
+[2019.12.07-21.41.08:845][197]LogSlate: Window 'grassDark' being destroyed
+[2019.12.07-21.41.08:857][197]LogSlate: Window 'grassDark' being destroyed
+[2019.12.07-21.41.08:923][197]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.41.16:088][420]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Strip.BP_Strip
+[2019.12.07-21.41.25:341][648]BlueprintLog: New page: Compile BP_Strip
+[2019.12.07-21.41.25:797][648]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2019.12.07-21.41.35:758][944]LogSlate: Window 'BP_Strip' being destroyed
+[2019.12.07-21.41.35:770][944]LogSlate: Window 'BP_Strip' being destroyed
+[2019.12.07-21.41.35:823][944]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.41.37:894][ 23]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-21.41.38:374][ 23]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.41.38:374][ 23]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.07-21.41.38:376][ 23]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2019.12.07-21.41.38:668][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2019.12.07-21.41.38:668][ 23]LogPlayLevel: PlayLevel: Blueprint regeneration took 294 ms (1 blueprints)
+[2019.12.07-21.41.38:669][ 23]PIE: New page: PIE session: TutorialMap (Dec 7, 2019, 5:41:38 AM)
+[2019.12.07-21.41.38:669][ 23]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.07-21.41.38:671][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002252s)
+[2019.12.07-21.41.38:672][ 23]LogAIModule: Creating AISystem for world TutorialMap
+[2019.12.07-21.41.38:672][ 23]LogPlayLevel: PIE: World Init took: (0.001280s)
+[2019.12.07-21.41.38:672][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.003694s)
+[2019.12.07-21.41.38:706][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.12.07-21.41.38:714][ 23]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.07-21.41.38:737][ 23]LogInit: FAudioDevice initialized.
+[2019.12.07-21.41.38:751][ 23]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.12.07-21.41.38:752][ 23]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2019.12.07-13.41.38
+[2019.12.07-21.41.38:752][ 23]LogWorld: Bringing up level for play took: 0.000597
+[2019.12.07-21.41.38:753][ 23]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.12.07-21.41.38:760][ 23]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.176
+[2019.12.07-21.41.38:760][ 23]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.41.44:651][376]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.41.44:651][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-21.41.44:651][376]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.07-21.41.44:651][376]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.41.44:686][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-21.41.44:687][376]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.41.44:727][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-21.41.44:732][376]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.12.07-21.41.44:749][377]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.07-21.41.47:672][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-21.41.47:935][488]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_StripSpawner.BP_StripSpawner
+[2019.12.07-21.41.52:374][610]LogSlate: Window 'BP_StripSpawner' being destroyed
+[2019.12.07-21.41.52:384][610]LogSlate: Window 'BP_StripSpawner' being destroyed
+[2019.12.07-21.41.52:409][610]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.41.53:863][654]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Strip.BP_Strip
+[2019.12.07-21.42.28:339][158]LogSlate: Window 'BP_Strip' being destroyed
+[2019.12.07-21.42.28:347][158]LogSlate: Window 'BP_Strip' being destroyed
+[2019.12.07-21.42.28:366][158]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.42.30:088][218]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_StripSpawner.BP_StripSpawner
+[2019.12.07-21.43.20:176][482]LogUObjectArray: Warning: Invalid object index 4522068
+[2019.12.07-21.43.20:205][482]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.07-21.43.22:797][482]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.591 s
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: 
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: Stack: 
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffdb8a95279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffdb82b7fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffdb82c622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffdb45c6c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffda7684dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffda763e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffdc78cd644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffdc7abc533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffdc791922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffdc78f5738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffdc78e9a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffdf2244c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffdf22326df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffdf2247340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffdf222edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffe119563ed USER32.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffe11955de2 USER32.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffdf22488e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ff761c26980 UE4Editor.exe!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ff761c3a91c UE4Editor.exe!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ff761c3a9fa UE4Editor.exe!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ff761c4b92c UE4Editor.exe!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ff761c4e60e UE4Editor.exe!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffe12087bd4 KERNEL32.DLL!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: [Callstack] 0x00007ffe12ccced1 ntdll.dll!UnknownFunction []
+[2019.12.07-21.43.22:797][482]LogOutputDevice: Error: 
+[2019.12.07-21.43.22:831][482]LogStats:                SubmitErrorReport -  0.000 s
+[2019.12.07-21.43.31:405][482]LogStats:                    SendNewReport -  8.573 s
+[2019.12.07-21.43.31:405][482]LogStats:             FDebug::EnsureFailed - 11.211 s
+[2019.12.07-21.43.31:406][482]LogUObjectArray: Warning: Invalid object index 4522068
+[2019.12.07-21.43.33:665][552]LogUObjectArray: Warning: Invalid object index 4522068
+[2019.12.07-21.43.33:667][552]LogUObjectArray: Warning: Invalid object index 4522068
+[2019.12.07-21.43.33:672][552]LogUObjectArray: Warning: Invalid object index 4522068
+[2019.12.07-21.43.33:674][552]LogUObjectArray: Warning: Invalid object index 4522068
+[2019.12.07-21.43.33:692][552]LogUObjectArray: Warning: Invalid object index 4522068
+[2019.12.07-21.43.34:239][570]LogUObjectArray: Warning: Invalid object index 4522068
+[2019.12.07-21.43.34:569][580]LogUObjectArray: Warning: Invalid object index 4522068
+[2019.12.07-21.43.34:571][580]LogUObjectArray: Warning: Invalid object index 4522068
+[2019.12.07-21.43.34:575][580]LogUObjectArray: Warning: Invalid object index 4522068
+[2019.12.07-21.43.34:578][580]LogUObjectArray: Warning: Invalid object index 4522068
+[2019.12.07-21.43.34:595][580]LogUObjectArray: Warning: Invalid object index 4522068
+[2019.12.07-21.43.35:244][601]BlueprintLog: New page: Compile BP_StripSpawner
+[2019.12.07-21.43.35:582][601]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2019.12.07-21.43.42:630][836]LogSlate: Window 'BP_StripSpawner' being destroyed
+[2019.12.07-21.43.42:638][836]LogSlate: Window 'BP_StripSpawner' being destroyed
+[2019.12.07-21.43.42:639][836]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.43.44:756][931]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-21.43.44:920][931]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.43.44:920][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-21.43.44:920][931]PIE: New page: PIE session: TutorialMap (Dec 7, 2019, 5:43:44 AM)
+[2019.12.07-21.43.44:920][931]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.07-21.43.44:923][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002442s)
+[2019.12.07-21.43.44:924][931]LogAIModule: Creating AISystem for world TutorialMap
+[2019.12.07-21.43.44:924][931]LogPlayLevel: PIE: World Init took: (0.001241s)
+[2019.12.07-21.43.44:924][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.003844s)
+[2019.12.07-21.43.44:966][931]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2019.12.07-21.43.44:971][931]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.07-21.43.44:992][931]LogInit: FAudioDevice initialized.
+[2019.12.07-21.43.45:004][931]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.12.07-21.43.45:005][931]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2019.12.07-13.43.45
+[2019.12.07-21.43.45:005][931]LogWorld: Bringing up level for play took: 0.000706
+[2019.12.07-21.43.45:006][931]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.12.07-21.43.45:013][931]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.43
+[2019.12.07-21.43.45:014][931]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.43.48:481][139]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.43.48:481][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-21.43.48:481][139]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.07-21.43.48:481][139]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.43.48:516][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-21.43.48:516][139]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.43.48:555][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-21.43.48:560][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2019.12.07-21.43.48:605][141]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.12.07-21.44.00:281][246]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.07-21.44.06:458][318]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_StripSpawner.BP_StripSpawner
+[2019.12.07-21.44.15:956][532]LogSlate: Window 'BP_StripSpawner' being destroyed
+[2019.12.07-21.44.15:965][532]LogSlate: Window 'BP_StripSpawner' being destroyed
+[2019.12.07-21.44.15:982][532]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.44.17:611][592]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Strip.BP_Strip
+[2019.12.07-21.44.44:915][230]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.12.07-21.44.45:161][230]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/TutorialMap_Auto3258025624742A7FD0DB12DB1EFA7C4DE.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto3.umap'
+[2019.12.07-21.44.45:170][230]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.297
+[2019.12.07-21.44.45:170][230]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.297
+[2019.12.07-21.44.45:171][230]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_StripSpawner] ([1] browsable assets)...
+[2019.12.07-21.44.45:171][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_StripSpawner]
+[2019.12.07-21.44.45:220][230]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/BP_StripSpawner_Auto3704FF3C94C1A2758FA4E20AB197C4D37.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_StripSpawner_Auto3.uasset'
+[2019.12.07-21.44.45:222][230]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Strip] ([1] browsable assets)...
+[2019.12.07-21.44.45:236][230]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Strip.BP_Strip]
+[2019.12.07-21.44.45:236][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Strip]
+[2019.12.07-21.44.45:289][230]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/BP_Strip_Auto3F6CE450F48832EAFA0806A9EDC7D1AC3.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Strip_Auto3.uasset'
+[2019.12.07-21.44.45:291][230]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([1] browsable assets)...
+[2019.12.07-21.44.45:306][230]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player]
+[2019.12.07-21.44.45:306][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2019.12.07-21.44.45:361][230]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/BP_Player_Auto34F81044C4DC123C9713584AE41007A21.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto3.uasset'
+[2019.12.07-21.44.45:363][230]LogFileHelpers: Auto-saving content packages took 0.193
+[2019.12.07-21.47.08:262][181]BlueprintLog: New page: Compile BP_Strip
+[2019.12.07-21.47.08:586][181]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2019.12.07-21.47.11:599][281]LogSlate: Window 'BP_Strip' being destroyed
+[2019.12.07-21.47.11:608][281]LogSlate: Window 'BP_Strip' being destroyed
+[2019.12.07-21.47.11:640][281]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.47.18:212][406]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-21.47.18:237][406]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.47.18:237][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-21.47.18:237][406]PIE: New page: PIE session: TutorialMap (Dec 7, 2019, 5:47:18 AM)
+[2019.12.07-21.47.18:237][406]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.07-21.47.18:240][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002444s)
+[2019.12.07-21.47.18:241][406]LogAIModule: Creating AISystem for world TutorialMap
+[2019.12.07-21.47.18:241][406]LogPlayLevel: PIE: World Init took: (0.001478s)
+[2019.12.07-21.47.18:241][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004096s)
+[2019.12.07-21.47.18:280][406]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2019.12.07-21.47.18:286][406]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.07-21.47.18:307][406]LogInit: FAudioDevice initialized.
+[2019.12.07-21.47.18:318][406]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.12.07-21.47.18:319][406]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2019.12.07-13.47.18
+[2019.12.07-21.47.18:319][406]LogWorld: Bringing up level for play took: 0.000619
+[2019.12.07-21.47.18:320][406]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.12.07-21.47.18:810][406]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.225
+[2019.12.07-21.47.18:810][406]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.47.22:246][611]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.47.22:247][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-21.47.22:247][611]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.07-21.47.22:247][611]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.47.22:281][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-21.47.22:281][611]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.47.22:321][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-21.47.22:325][611]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.12.07-21.47.22:344][612]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.12.07-21.47.25:608][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-21.47.25:861][755]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Strip.BP_Strip
+[2019.12.07-21.48.22:365][547]BlueprintLog: New page: Compile BP_Strip
+[2019.12.07-21.48.22:710][547]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2019.12.07-21.48.24:316][600]LogSlate: Window 'BP_Strip' being destroyed
+[2019.12.07-21.48.24:325][600]LogSlate: Window 'BP_Strip' being destroyed
+[2019.12.07-21.48.24:326][600]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.48.25:990][659]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-21.48.26:030][659]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.48.26:030][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-21.48.26:031][659]PIE: New page: PIE session: TutorialMap (Dec 7, 2019, 5:48:26 AM)
+[2019.12.07-21.48.26:031][659]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.07-21.48.26:035][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003508s)
+[2019.12.07-21.48.26:036][659]LogAIModule: Creating AISystem for world TutorialMap
+[2019.12.07-21.48.26:037][659]LogPlayLevel: PIE: World Init took: (0.001915s)
+[2019.12.07-21.48.26:037][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005668s)
+[2019.12.07-21.48.26:090][659]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2019.12.07-21.48.26:098][659]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.07-21.48.26:127][659]LogInit: FAudioDevice initialized.
+[2019.12.07-21.48.26:148][659]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.12.07-21.48.26:152][659]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2019.12.07-13.48.26
+[2019.12.07-21.48.26:152][659]LogWorld: Bringing up level for play took: 0.001979
+[2019.12.07-21.48.26:153][659]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.12.07-21.48.26:168][659]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.416
+[2019.12.07-21.48.26:169][659]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.48.29:035][830]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.48.29:035][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-21.48.29:035][830]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.07-21.48.29:035][830]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.48.29:070][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-21.48.29:070][830]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.48.29:109][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-21.48.29:113][830]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.12.07-21.48.29:159][832]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.12.07-21.48.31:740][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-21.48.32:003][932]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Strip.BP_Strip
+[2019.12.07-21.48.38:314][103]LogSlate: Window 'BP_Strip' being destroyed
+[2019.12.07-21.48.38:322][103]LogSlate: Window 'BP_Strip' being destroyed
+[2019.12.07-21.48.38:323][103]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.48.39:855][148]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_StripSpawner.BP_StripSpawner
+[2019.12.07-21.48.53:226][524]LogSlate: Window 'BP_StripSpawner' being destroyed
+[2019.12.07-21.48.53:236][524]LogSlate: Window 'BP_StripSpawner' being destroyed
+[2019.12.07-21.48.53:236][524]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.48.54:839][575]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Strip.BP_Strip
+[2019.12.07-21.49.35:444][779]BlueprintLog: New page: Compile BP_Strip
+[2019.12.07-21.49.35:790][779]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2019.12.07-21.49.37:923][849]LogSlate: Window 'BP_Strip' being destroyed
+[2019.12.07-21.49.37:933][849]LogSlate: Window 'BP_Strip' being destroyed
+[2019.12.07-21.49.37:935][849]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.49.39:409][904]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-21.49.39:447][904]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.49.39:447][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-21.49.39:448][904]PIE: New page: PIE session: TutorialMap (Dec 7, 2019, 5:49:39 AM)
+[2019.12.07-21.49.39:448][904]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.07-21.49.39:452][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004233s)
+[2019.12.07-21.49.39:453][904]LogAIModule: Creating AISystem for world TutorialMap
+[2019.12.07-21.49.39:454][904]LogPlayLevel: PIE: World Init took: (0.001750s)
+[2019.12.07-21.49.39:454][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.006248s)
+[2019.12.07-21.49.39:511][904]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2019.12.07-21.49.39:520][904]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.07-21.49.39:553][904]LogInit: FAudioDevice initialized.
+[2019.12.07-21.49.39:567][904]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.12.07-21.49.39:569][904]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2019.12.07-13.49.39
+[2019.12.07-21.49.39:569][904]LogWorld: Bringing up level for play took: 0.001064
+[2019.12.07-21.49.39:570][904]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.12.07-21.49.39:581][904]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.997
+[2019.12.07-21.49.39:582][904]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.49.42:522][ 79]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.49.42:523][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-21.49.42:523][ 79]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.07-21.49.42:523][ 79]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.49.42:558][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-21.49.42:558][ 79]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.07-21.49.42:600][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-21.49.42:605][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.12.07-21.49.42:624][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.12.07-21.49.44:289][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-21.54.56:059][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.12.07-21.54.56:059][766]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.035
+[2019.12.07-21.54.56:061][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_StripSpawner] ([1] browsable assets)...
+[2019.12.07-21.54.56:061][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_StripSpawner]
+[2019.12.07-21.54.56:111][766]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/BP_StripSpawner_Auto47038C4344BC087A07FB5F58E397A3B90.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_StripSpawner_Auto4.uasset'
+[2019.12.07-21.54.56:113][766]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Strip] ([1] browsable assets)...
+[2019.12.07-21.54.56:129][766]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Strip.BP_Strip]
+[2019.12.07-21.54.56:129][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Strip]
+[2019.12.07-21.54.56:255][766]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/BP_Strip_Auto47ED1806243895605E2AD36BB8BDDE9D2.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Strip_Auto4.uasset'
+[2019.12.07-21.54.56:257][766]LogFileHelpers: Auto-saving content packages took 0.197
+[2019.12.07-21.57.24:048][620]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Catzenjammers/3D Objects/sprites/river/river.obj)
+[2019.12.07-21.57.24:061][620]LogFbx: Loading FBX Scene from ../../../../../../Users/Catzenjammers/3D Objects/sprites/river/river.obj
+[2019.12.07-21.57.24:063][620]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.07-21.57.25:127][620]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.07-21.57.25:174][620]LogLinker: Failed to load '/Game/river': Can't find file.
+[2019.12.07-21.57.25:178][620]LogTexture: Display: Building textures: river1 (BGRA8, 256X1)
+[2019.12.07-21.57.25:189][620]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.12.07-21.57.25:220][620]LogStaticMesh: Building static mesh river...
+[2019.12.07-21.57.25:220][620]LogStaticMesh: Built static mesh [0.00s] /Game/river.river
+[2019.12.07-21.57.25:221][620]LogStaticMesh: Warning: river has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.07-21.57.25:221][620]LogStaticMesh: Warning: river has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.07-21.57.25:227][620]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2019.12.07-21.57.25:227][620]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.12.07-21.57.25:227][620]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.12.07-21.57.25:228][620]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.07-21.57.25:228][620]FBXImport: Warning: river has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.07-21.57.25:228][620]FBXImport: Warning: river has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.07-21.57.26:594][662]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-21.57.26:605][662]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-21.57.38:876][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/palette_river" FILE="../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/palette_river.uasset" SILENT=true
+[2019.12.07-21.57.38:902][949]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/palette_riverA46EEC6242F5FDE1C85536BFFFDA1A5E.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/palette_river.uasset'
+[2019.12.07-21.57.39:093][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.12.07-21.57.39:133][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.12.07-21.57.39:166][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.12.07-21.57.45:019][171]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/palette_river864CF3A34D15B304F9623AA67EB020DD.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/palette_river.uasset'
+[2019.12.07-21.57.45:203][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.12.07-21.57.45:244][171]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.12.07-21.57.45:279][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.12.07-21.57.49:718][348]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/river54A8DF144170CC6E2C567690DCA9B2DC.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/river.uasset'
+[2019.12.07-21.57.49:905][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.12.07-21.57.49:946][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.12.07-21.57.49:981][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.12.07-21.57.53:815][516]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/river1E6D10D8945ED44B5A1D90CB2F0AE6993.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/river1.uasset'
+[2019.12.07-21.57.54:002][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.12.07-21.57.54:042][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.12.07-21.57.54:079][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.12.07-21.57.54:121][516]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/palette_river0D53ADAC4A9C6890A353A7980777A99C.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/palette_river.uasset'
+[2019.12.07-21.57.59:552][744]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Strip.BP_Strip
+[2019.12.07-21.58.49:653][133]BlueprintLog: New page: Compile BP_Strip
+[2019.12.07-21.58.49:904][133]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.12.07-21.58.51:169][162]LogSlate: Window 'BP_Strip' being destroyed
+[2019.12.07-21.58.51:177][162]LogSlate: Window 'BP_Strip' being destroyed
+[2019.12.07-21.58.51:233][162]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.58.52:616][218]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2019.12.07-21.58.52:933][218]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/TutorialMap23D8ADDB4158880313BFC3B81981F762.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2019.12.07-21.58.54:236][274]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.12.07-21.58.55:438][274]LogSlate: Window 'Save Content' being destroyed
+[2019.12.07-21.58.55:548][274]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/BP_Player33EE7BE5484E2E13A3A58DAEC49B3537.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2019.12.07-21.58.55:622][274]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/BP_Strip6AE77B6F4E40859A3FC2E1907BA6627E.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Strip.uasset'
+[2019.12.07-21.58.55:681][274]LogSavePackage: Moving '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Saved/BP_StripSpawner7B0098C84909FFD9FDB4CF981837ECA4.tmp' to '../../../../../../Users/Catzenjammers/Downloads/InfiniteMatrixStarterProject2/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_StripSpawner.uasset'
+[2019.12.07-21.58.55:820][274]LogSlate: Window 'InfiniteMatrix - Unreal Editor' being destroyed
+[2019.12.07-21.58.55:822][274]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.07-21.58.56:014][275]Cmd: QUIT_EDITOR
+[2019.12.07-21.58.56:846][275]LogExit: Preparing to exit.
+[2019.12.07-21.58.57:035][275]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.58.57:038][275]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.58.57:040][275]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.58.57:043][275]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.58.57:074][275]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.07-21.58.57:095][275]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-21.58.57:095][275]LogExit: Editor shut down
+[2019.12.07-21.58.57:096][275]LogExit: Transaction tracking system shut down
+[2019.12.07-21.58.57:369][275]LogExit: Object subsystem successfully closed.
+[2019.12.07-21.58.57:388][275]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.07-21.58.57:433][275]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (678)
+[2019.12.07-21.58.57:433][275]LogModuleManager: Shutting down and abandoning module MeshBuilder (676)
+[2019.12.07-21.58.57:433][275]LogModuleManager: Shutting down and abandoning module BlueprintGraph (674)
+[2019.12.07-21.58.57:433][275]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (672)
+[2019.12.07-21.58.57:433][275]LogModuleManager: Shutting down and abandoning module Voice (670)
+[2019.12.07-21.58.57:433][275]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2019.12.07-21.58.57:433][275]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2019.12.07-21.58.57:433][275]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2019.12.07-21.58.57:435][275]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2019.12.07-21.58.57:435][275]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2019.12.07-21.58.57:435][275]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2019.12.07-21.58.57:435][275]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.12.07-21.58.57:435][275]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.12.07-21.58.57:435][275]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.12.07-21.58.57:435][275]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.12.07-21.58.57:436][275]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.12.07-21.58.57:437][275]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.12.07-21.58.57:438][275]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.12.07-21.58.57:438][275]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.12.07-21.58.57:438][275]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.12.07-21.58.57:438][275]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.12.07-21.58.57:438][275]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.12.07-21.58.57:438][275]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.12.07-21.58.57:438][275]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.12.07-21.58.57:438][275]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.12.07-21.58.57:438][275]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.12.07-21.58.58:861][275]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.12.07-21.58.58:861][275]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.12.07-21.58.58:861][275]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.12.07-21.58.58:861][275]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.12.07-21.58.58:861][275]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.12.07-21.58.58:861][275]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.12.07-21.58.58:861][275]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.12.07-21.58.58:861][275]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.12.07-21.58.58:861][275]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.12.07-21.58.58:861][275]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.12.07-21.58.58:861][275]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.12.07-21.58.58:861][275]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.12.07-21.58.58:861][275]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.12.07-21.58.58:861][275]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.12.07-21.58.58:861][275]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.12.07-21.58.58:861][275]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.12.07-21.58.58:862][275]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.12.07-21.58.58:862][275]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.12.07-21.58.58:862][275]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.12.07-21.58.58:862][275]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.12.07-21.58.58:862][275]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.12.07-21.58.58:862][275]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.12.07-21.58.58:862][275]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.12.07-21.58.58:904][275]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.12.07-21.58.58:904][275]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.12.07-21.58.58:904][275]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.12.07-21.58.58:904][275]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.12.07-21.58.58:904][275]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.12.07-21.58.58:904][275]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.12.07-21.58.58:904][275]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.12.07-21.58.58:904][275]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.12.07-21.58.58:904][275]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.12.07-21.58.58:904][275]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.12.07-21.58.58:905][275]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.12.07-21.58.58:911][275]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.12.07-21.58.58:912][275]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.12.07-21.58.58:912][275]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.12.07-21.58.58:912][275]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.12.07-21.58.58:912][275]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.12.07-21.58.58:912][275]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.12.07-21.58.58:912][275]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.12.07-21.58.58:912][275]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.12.07-21.58.58:912][275]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.12.07-21.58.58:912][275]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.12.07-21.58.58:913][275]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.12.07-21.58.58:913][275]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.12.07-21.58.58:913][275]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.12.07-21.58.58:913][275]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.12.07-21.58.58:913][275]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.12.07-21.58.58:913][275]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.12.07-21.58.58:913][275]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.12.07-21.58.58:913][275]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.12.07-21.58.58:913][275]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.12.07-21.58.58:913][275]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.12.07-21.58.58:913][275]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.12.07-21.58.58:913][275]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.12.07-21.58.58:913][275]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.12.07-21.58.58:913][275]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.12.07-21.58.58:913][275]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.12.07-21.58.58:913][275]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.12.07-21.58.58:918][275]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.12.07-21.58.59:197][275]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.12.07-21.58.59:197][275]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.12.07-21.58.59:197][275]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.12.07-21.58.59:197][275]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.12.07-21.58.59:197][275]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.12.07-21.58.59:202][275]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.12.07-21.58.59:202][275]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.12.07-21.58.59:202][275]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.12.07-21.58.59:202][275]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.12.07-21.58.59:202][275]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.12.07-21.58.59:205][275]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.12.07-21.58.59:205][275]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.12.07-21.58.59:206][275]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.12.07-21.58.59:206][275]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.12.07-21.58.59:206][275]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.12.07-21.58.59:206][275]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.12.07-21.58.59:206][275]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.12.07-21.58.59:206][275]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.12.07-21.58.59:206][275]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.12.07-21.58.59:206][275]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.12.07-21.58.59:206][275]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.12.07-21.58.59:206][275]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.12.07-21.58.59:206][275]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.12.07-21.58.59:206][275]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.12.07-21.58.59:206][275]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.12.07-21.58.59:206][275]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.12.07-21.58.59:206][275]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.12.07-21.58.59:207][275]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.12.07-21.58.59:226][275]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.12.07-21.58.59:226][275]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.12.07-21.58.59:227][275]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.12.07-21.58.59:227][275]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.12.07-21.58.59:227][275]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.12.07-21.58.59:227][275]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.12.07-21.58.59:227][275]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.12.07-21.58.59:227][275]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.12.07-21.58.59:227][275]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.12.07-21.58.59:227][275]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.12.07-21.58.59:228][275]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.12.07-21.58.59:229][275]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.12.07-21.58.59:229][275]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.12.07-21.58.59:229][275]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.12.07-21.58.59:229][275]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.12.07-21.58.59:229][275]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.12.07-21.58.59:229][275]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.12.07-21.58.59:708][275]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.12.07-21.58.59:810][275]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.12.07-21.58.59:810][275]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.12.07-21.58.59:810][275]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.12.07-21.58.59:810][275]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.12.07-21.58.59:810][275]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.12.07-21.58.59:810][275]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.07-21.58.59:810][275]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.12.07-21.58.59:811][275]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.12.07-21.58.59:811][275]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.12.07-21.58.59:811][275]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.12.07-21.58.59:811][275]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.12.07-21.58.59:811][275]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.12.07-21.58.59:811][275]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.12.07-21.58.59:811][275]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.12.07-21.58.59:813][275]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.12.07-21.58.59:813][275]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.12.07-21.58.59:813][275]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.12.07-21.58.59:813][275]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.12.07-21.58.59:814][275]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.12.07-21.58.59:816][275]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.12.07-21.58.59:816][275]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.07-21.58.59:816][275]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.07-21.58.59:816][275]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.07-21.58.59:816][275]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.07-21.58.59:823][275]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.07-21.58.59:823][275]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.07-21.58.59:823][275]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.07-21.58.59:823][275]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.07-21.58.59:823][275]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.07-21.58.59:823][275]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.07-21.58.59:823][275]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.07-21.58.59:823][275]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.07-21.58.59:823][275]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.07-21.58.59:823][275]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.07-21.58.59:823][275]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.07-21.58.59:823][275]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.07-21.58.59:823][275]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.07-21.58.59:823][275]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.07-21.58.59:823][275]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.07-21.58.59:823][275]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.07-21.58.59:823][275]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.07-21.58.59:823][275]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.07-21.58.59:824][275]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.07-21.58.59:824][275]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.07-21.58.59:824][275]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.07-21.58.59:824][275]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.07-21.58.59:824][275]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.07-21.58.59:826][275]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.07-21.58.59:826][275]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.07-21.58.59:826][275]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.07-21.58.59:826][275]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.07-21.58.59:826][275]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.07-21.58.59:826][275]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.07-21.58.59:826][275]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.07-21.58.59:826][275]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.07-21.58.59:826][275]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.07-21.58.59:827][275]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.07-21.58.59:827][275]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.07-21.58.59:827][275]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.07-21.58.59:827][275]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.07-21.58.59:827][275]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.07-21.58.59:827][275]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.07-21.58.59:827][275]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.07-21.58.59:827][275]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.07-21.58.59:828][275]LogDerivedDataCache: Shutdown
+[2019.12.07-21.58.59:828][275]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.07-21.58.59:828][275]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.07-21.58.59:829][275]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.07-21.58.59:829][275]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.07-21.58.59:829][275]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.07-21.58.59:829][275]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.07-21.58.59:829][275]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.07-21.58.59:830][275]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.07-21.58.59:830][275]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.07-21.58.59:830][275]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.07-21.58.59:830][275]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.07-21.58.59:830][275]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.07-21.58.59:830][275]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.07-21.58.59:830][275]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.07-21.58.59:831][275]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.07-21.58.59:831][275]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.07-21.58.59:831][275]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.07-21.58.59:831][275]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.07-21.58.59:856][275]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.07-21.58.59:856][275]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.07-21.58.59:856][275]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.07-21.58.59:856][275]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.07-21.58.59:856][275]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.07-21.58.59:863][275]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.07-21.58.59:863][275]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.07-21.58.59:869][275]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.07-21.58.59:869][275]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.07-21.58.59:921][275]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.07-21.58.59:921][275]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.07-21.58.59:921][275]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.07-21.58.59:921][275]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.07-21.58.59:921][275]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.07-21.58.59:921][275]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.07-21.58.59:921][275]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.07-21.58.59:921][275]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.07-21.58.59:921][275]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.07-21.58.59:921][275]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.07-21.58.59:921][275]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.07-21.58.59:921][275]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.07-21.58.59:922][275]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.07-21.58.59:922][275]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.07-21.58.59:922][275]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.07-21.58.59:922][275]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.07-21.58.59:922][275]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.07-21.58.59:922][275]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.07-21.58.59:922][275]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.07-21.58.59:922][275]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.07-21.58.59:922][275]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.07-21.58.59:922][275]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.07-21.58.59:923][275]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.07-21.58.59:923][275]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.07-21.58.59:958][275]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.07-21.58.59:958][275]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.07-21.58.59:958][275]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0E2C669-4C1D-9189-810F-E1984997FAE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cf43fbde4c000294da104481e82bfa38%7C2de7b60b33e445678d24eba6bf32539d%7Ce07ea36f-4778-455d-81cc-3dcf792918bc&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.07-21.59.00:075][275]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.07-21.59.00:228][275]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.07-21.59.00:292][275]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.07-21.59.00:293][275]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.07-21.59.00:293][275]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.07-21.59.00:294][275]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.07-21.59.00:294][275]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.07-21.59.00:294][275]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.07-21.59.00:294][275]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.07-21.59.00:294][275]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.07-21.59.00:294][275]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.07-21.59.00:295][275]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.07-21.59.00:295][275]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.07-21.59.00:295][275]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.07-21.59.00:295][275]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.07-21.59.00:300][275]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.07-21.59.00:300][275]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.07-21.59.00:300][275]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.07-21.59.00:300][275]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.07-21.59.00:300][275]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.07-21.59.00:300][275]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.07-21.59.00:300][275]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.07-21.59.00:300][275]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.07-21.59.00:300][275]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.07-21.59.00:300][275]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.07-21.59.00:300][275]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.07-21.59.00:300][275]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.07-21.59.00:306][275]LogD3D11RHI: Shutdown
+[2019.12.07-21.59.00:306][275]LogD3D11RHI: CleanupD3DDevice
+[2019.12.07-21.59.00:313][275]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.07-21.59.00:314][275]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.07-21.59.00:315][275]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.07-21.59.00:641][275]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.07-21.59.00:649][275]LogExit: Exiting.
+[2019.12.07-21.59.00:735][275]Log file closed, 12/07/19 13:59:00
