@@ -983,3 +983,78 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.14-22.09.32:516][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.12.14-22.09.32:622][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/BP_Player" FILE="../../../../../Users/handb/Desktop/RPY_CrossyRoad/Cross_Road/Content/Assets/Blueprints/BP_Player.uasset" SILENT=true
 [2019.12.14-22.09.32:720][843]LogSavePackage: Moving '../../../../../Users/handb/Desktop/RPY_CrossyRoad/Cross_Road/Saved/BP_Player8995D4654BAD26509405DAA7E086BBFC.tmp' to '../../../../../Users/handb/Desktop/RPY_CrossyRoad/Cross_Road/Content/Assets/Blueprints/BP_Player.uasset'
+[2019.12.14-22.12.07:722][556]LogRenderer: Reallocating scene render targets to support 804x532 Format 10 NumSamples 1 (Frame:1).
+[2019.12.14-22.12.16:626][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-22.13.15:434][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-22.13.15:528][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/BP_Player" FILE="../../../../../Users/handb/Desktop/RPY_CrossyRoad/Cross_Road/Content/Assets/Blueprints/BP_Player.uasset" SILENT=true
+[2019.12.14-22.13.15:601][880]LogSavePackage: Moving '../../../../../Users/handb/Desktop/RPY_CrossyRoad/Cross_Road/Saved/BP_PlayerB8FCDFD34E91E8229877E3AF6566A25B.tmp' to '../../../../../Users/handb/Desktop/RPY_CrossyRoad/Cross_Road/Content/Assets/Blueprints/BP_Player.uasset'
+[2019.12.14-22.14.23:538][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-22.14.43:033][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-22.14.43:151][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/BP_Player" FILE="../../../../../Users/handb/Desktop/RPY_CrossyRoad/Cross_Road/Content/Assets/Blueprints/BP_Player.uasset" SILENT=true
+[2019.12.14-22.14.43:229][929]LogSavePackage: Moving '../../../../../Users/handb/Desktop/RPY_CrossyRoad/Cross_Road/Saved/BP_PlayerD5E42F9A4064F6C3833033880A4A008F.tmp' to '../../../../../Users/handb/Desktop/RPY_CrossyRoad/Cross_Road/Content/Assets/Blueprints/BP_Player.uasset'
+[2019.12.14-22.14.57:533][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-22.15.07:624][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-22.15.21:939][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-22.15.26:115][792]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Meshes/chicken.chicken
+[2019.12.14-22.15.26:970][793]LogRenderer: Reallocating scene render targets to support 928x552 Format 10 NumSamples 1 (Frame:1).
+[2019.12.14-22.15.37:074][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-22.16.44:855][840]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.14-22.17.08:318][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-22.17.24:118][380]LogSlate: Window 'chicken' being destroyed
+[2019.12.14-22.17.24:122][380]LogSlate: Window 'chicken' being destroyed
+[2019.12.14-22.17.24:142][380]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.14-22.17.24:214][380]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.14-22.17.27:496][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-22.17.29:559][995]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Blueprints/BP_Player.BP_Player
+[2019.12.14-22.17.31:043][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/BP_Player" FILE="../../../../../Users/handb/Desktop/RPY_CrossyRoad/Cross_Road/Content/Assets/Blueprints/BP_Player.uasset" SILENT=true
+[2019.12.14-22.17.31:122][ 87]LogSavePackage: Moving '../../../../../Users/handb/Desktop/RPY_CrossyRoad/Cross_Road/Saved/BP_Player4B7E14CA4C28F5D840DCFDACB3DC40DA.tmp' to '../../../../../Users/handb/Desktop/RPY_CrossyRoad/Cross_Road/Content/Assets/Blueprints/BP_Player.uasset'
+[2019.12.14-22.17.31:755][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-22.17.45:729][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-22.17.45:828][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/BP_Player" FILE="../../../../../Users/handb/Desktop/RPY_CrossyRoad/Cross_Road/Content/Assets/Blueprints/BP_Player.uasset" SILENT=true
+[2019.12.14-22.17.45:901][748]LogSavePackage: Moving '../../../../../Users/handb/Desktop/RPY_CrossyRoad/Cross_Road/Saved/BP_PlayerAAFC06744E005EA743B78098AF48D66D.tmp' to '../../../../../Users/handb/Desktop/RPY_CrossyRoad/Cross_Road/Content/Assets/Blueprints/BP_Player.uasset'
+[2019.12.14-22.17.47:004][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-22.17.47:080][865]BlueprintLog: New page: Compile BP_Player
+[2019.12.14-22.17.47:461][865]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.12.14-22.17.49:747][104]LogSlate: Window 'BP_Player' being destroyed
+[2019.12.14-22.17.49:752][104]LogSlate: Window 'BP_Player' being destroyed
+[2019.12.14-22.17.49:774][104]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.14-22.17.51:112][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-22.17.51:196][265]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.14-22.17.51:208][265]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.14-22.17.51:208][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.14-22.17.51:208][265]PIE: New page: PIE session: Untitled_1 (Dec 14, 2019, 6:17:51 AM)
+[2019.12.14-22.17.51:208][265]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.12.14-22.17.51:210][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002126s)
+[2019.12.14-22.17.51:211][265]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.14-22.17.51:211][265]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2019.12.14-22.17.51:211][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003181s)
+[2019.12.14-22.17.51:279][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.12.14-22.17.51:295][265]LogInit: XAudio2 using 'Speakers (2- USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.14-22.17.51:305][265]LogInit: FAudioDevice initialized.
+[2019.12.14-22.17.51:313][265]LogLoad: Game class is 'test_C'
+[2019.12.14-22.17.51:314][265]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.12.14-14.17.51
+[2019.12.14-22.17.51:314][265]LogWorld: Bringing up level for play took: 0.000446
+[2019.12.14-22.17.51:314][265]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.12.14-22.17.51:317][265]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.561
+[2019.12.14-22.17.51:317][265]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.14-22.18.38:381][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-22.18.41:627][286]Cmd: SELECT NONE
+[2019.12.14-22.18.43:224][476]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.14-22.18.43:224][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.14-22.18.43:224][476]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2019.12.14-22.18.43:224][476]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.14-22.18.43:232][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.14-22.18.43:232][476]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.14-22.18.43:263][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.14-22.18.43:266][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.12.14-22.18.43:328][482]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.12.14-22.18.47:660][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-22.18.47:838][824]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Blueprints/BP_Player.BP_Player
+[2019.12.14-22.36.01:694][624]LogSlate: Window 'BP_Player' being destroyed
+[2019.12.14-22.36.01:699][624]LogSlate: Window 'BP_Player' being destroyed
+[2019.12.14-22.36.01:705][624]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.14-22.36.04:276][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-22.36.04:704][927]LogSlate: Window 'Tutorials' being destroyed
+[2019.12.14-22.36.06:118][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.14-22.36.08:311][348]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.14-22.36.10:288][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
