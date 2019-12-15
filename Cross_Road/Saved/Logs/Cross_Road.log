@@ -1058,3 +1058,311 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.14-22.36.06:118][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.12.14-22.36.08:311][348]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.12.14-22.36.10:288][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-03.45.58:819][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-03.46.55:014][346]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-03.46.55:074][346]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-03.46.55:085][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-03.46.55:090][346]PIE: New page: PIE session: Untitled_1 (Dec 14, 2019, 11:46:55 AM)
+[2019.12.15-03.46.55:104][346]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.12.15-03.46.55:228][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121647s)
+[2019.12.15-03.46.55:256][346]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.15-03.46.55:265][346]LogPlayLevel: PIE: World Init took: (0.036669s)
+[2019.12.15-03.46.55:265][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.161157s)
+[2019.12.15-03.46.55:724][346]LogUObjectHash: Compacting FUObjectHashTables data took  25.86ms
+[2019.12.15-03.46.55:755][346]LogInit: XAudio2 using 'Speakers (2- USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-03.46.55:774][346]LogInit: FAudioDevice initialized.
+[2019.12.15-03.46.55:804][346]LogLoad: Game class is 'test_C'
+[2019.12.15-03.46.55:815][346]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.12.14-19.46.55
+[2019.12.15-03.46.55:816][346]LogWorld: Bringing up level for play took: 0.007028
+[2019.12.15-03.46.55:820][346]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.12.15-03.46.55:839][346]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.04
+[2019.12.15-03.46.55:847][346]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-03.49.10:285][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-03.49.10:414][454]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Blueprints/BP_Player.BP_Player
+[2019.12.15-03.49.28:254][167]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-03.49.28:255][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-03.49.28:255][167]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2019.12.15-03.49.28:255][167]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-03.49.28:276][167]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-03.49.28:276][167]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-03.49.28:328][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-03.49.28:336][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.12.15-03.49.28:435][168]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.12.15-03.49.32:913][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-03.49.32:989][533]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-03.49.33:007][533]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-03.49.33:008][533]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.15-03.49.33:020][533]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2019.12.15-03.49.33:510][533]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2019.12.15-03.49.33:510][533]LogPlayLevel: PlayLevel: Blueprint regeneration took 502 ms (1 blueprints)
+[2019.12.15-03.49.33:510][533]PIE: New page: PIE session: Untitled_1 (Dec 14, 2019, 11:49:33 AM)
+[2019.12.15-03.49.33:510][533]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.12.15-03.49.33:514][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003070s)
+[2019.12.15-03.49.33:515][533]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.15-03.49.33:515][533]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2019.12.15-03.49.33:515][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005063s)
+[2019.12.15-03.49.33:557][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.12.15-03.49.33:570][533]LogInit: XAudio2 using 'Speakers (2- USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-03.49.33:580][533]LogInit: FAudioDevice initialized.
+[2019.12.15-03.49.33:586][533]LogLoad: Game class is 'test_C'
+[2019.12.15-03.49.33:588][533]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.12.14-19.49.33
+[2019.12.15-03.49.33:588][533]LogWorld: Bringing up level for play took: 0.001228
+[2019.12.15-03.49.33:589][533]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.12.15-03.49.33:592][533]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.286
+[2019.12.15-03.49.33:592][533]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-03.49.38:570][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-03.49.59:313][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-03.50.08:951][251]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-03.50.08:952][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-03.50.08:952][251]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2019.12.15-03.50.08:952][251]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-03.50.08:958][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-03.50.08:958][251]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-03.50.09:000][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-03.50.09:006][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.12.15-03.50.09:060][253]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.12.15-03.50.36:727][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-03.51.39:867][583]LogSlate: Window 'Save Level As' being destroyed
+[2019.12.15-03.51.44:485][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.12.15-03.51.47:524][ 69]LogSlate: Window 'Save Level As' being destroyed
+[2019.12.15-03.51.49:265][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/BP_Player" FILE="../../../../../Users/handb/Desktop/RPY_CrossyRoad/Cross_Road/Content/Assets/Blueprints/BP_Player.uasset" SILENT=true
+[2019.12.15-03.51.49:411][251]LogSavePackage: Moving '../../../../../Users/handb/Desktop/RPY_CrossyRoad/Cross_Road/Saved/BP_PlayerDF2FA4684E834CD4A96159ACCAA90837.tmp' to '../../../../../Users/handb/Desktop/RPY_CrossyRoad/Cross_Road/Content/Assets/Blueprints/BP_Player.uasset'
+[2019.12.15-03.51.51:666][446]LogSlate: Window 'Tutorials' being destroyed
+[2019.12.15-03.51.56:062][897]LogSlate: Window 'BP_Player' being destroyed
+[2019.12.15-03.51.56:069][897]LogSlate: Window 'BP_Player' being destroyed
+[2019.12.15-03.51.56:093][897]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-04.17.58:155][530]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Blueprints/BP_Player.BP_Player
+[2019.12.15-04.20.17:728][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-04.20.35:704][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-04.20.42:863][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-04.20.51:370][317]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-04.20.51:389][317]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.20.51:389][317]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.15-04.20.51:391][317]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2019.12.15-04.20.51:617][317]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.12.15-04.20.51:617][317]LogPlayLevel: PlayLevel: Blueprint regeneration took 227 ms (1 blueprints)
+[2019.12.15-04.20.51:617][317]PIE: New page: PIE session: Untitled_1 (Dec 14, 2019, 12:20:51 PM)
+[2019.12.15-04.20.51:617][317]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.12.15-04.20.51:622][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004654s)
+[2019.12.15-04.20.51:622][317]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.15-04.20.51:623][317]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2019.12.15-04.20.51:623][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005763s)
+[2019.12.15-04.20.51:650][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.12.15-04.20.51:666][317]LogInit: XAudio2 using 'Speakers (2- USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-04.20.51:676][317]LogInit: FAudioDevice initialized.
+[2019.12.15-04.20.51:686][317]LogLoad: Game class is 'test_C'
+[2019.12.15-04.20.51:687][317]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.12.14-20.20.51
+[2019.12.15-04.20.51:688][317]LogWorld: Bringing up level for play took: 0.000453
+[2019.12.15-04.20.51:688][317]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.12.15-04.20.51:690][317]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.187
+[2019.12.15-04.20.51:690][317]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.20.59:781][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-04.21.02:368][277]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.21.02:368][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-04.21.02:368][277]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2019.12.15-04.21.02:368][277]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-04.21.02:374][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-04.21.02:374][277]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.21.02:476][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-04.21.02:479][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.12.15-04.21.02:518][278]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.12.15-04.21.10:087][ 62]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.15-04.21.11:024][156]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.12.15-04.21.11:101][156]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-04.21.11:848][230]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.15-04.21.12:865][334]Cmd: SELECT NONE
+[2019.12.15-04.21.17:087][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-04.21.17:168][565]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-04.21.17:184][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.21.17:184][565]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.15-04.21.17:185][565]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2019.12.15-04.21.17:352][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.12.15-04.21.17:352][565]LogPlayLevel: PlayLevel: Blueprint regeneration took 168 ms (1 blueprints)
+[2019.12.15-04.21.17:353][565]PIE: New page: PIE session: Untitled_1 (Dec 14, 2019, 12:21:17 PM)
+[2019.12.15-04.21.17:353][565]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.12.15-04.21.17:356][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004435s)
+[2019.12.15-04.21.17:357][565]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.15-04.21.17:357][565]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2019.12.15-04.21.17:357][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005456s)
+[2019.12.15-04.21.17:388][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.12.15-04.21.17:402][565]LogInit: XAudio2 using 'Speakers (2- USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-04.21.17:411][565]LogInit: FAudioDevice initialized.
+[2019.12.15-04.21.17:416][565]LogLoad: Game class is 'test_C'
+[2019.12.15-04.21.17:417][565]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.12.14-20.21.17
+[2019.12.15-04.21.17:418][565]LogWorld: Bringing up level for play took: 0.000432
+[2019.12.15-04.21.17:418][565]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.12.15-04.21.17:420][565]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.457
+[2019.12.15-04.21.17:420][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.21.32:680][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-04.21.36:077][520]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.21.36:077][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-04.21.36:077][520]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2019.12.15-04.21.36:077][520]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-04.21.36:087][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-04.21.36:087][520]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.21.36:125][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-04.21.36:129][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.12.15-04.21.36:183][523]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.12.15-04.22.18:661][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-04.22.18:712][946]BlueprintLog: New page: Compile BP_Player
+[2019.12.15-04.22.18:729][946]LogBlueprint: Error: [Compiler BP_Player] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2019.12.15-04.22.18:730][946]LogBlueprint: Error: [Compiler BP_Player] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2019.12.15-04.22.18:730][946]LogBlueprint: Error: [Compiler BP_Player] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.12.15-04.22.18:928][946]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.12.15-04.23.19:822][613]BlueprintLog: New page: Compile BP_Player
+[2019.12.15-04.23.19:832][613]LogBlueprint: Error: [Compiler BP_Player] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.12.15-04.23.19:985][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.12.15-04.23.22:802][929]BlueprintLog: New page: Compile BP_Player
+[2019.12.15-04.23.22:810][929]LogBlueprint: Error: [Compiler BP_Player] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.12.15-04.23.22:961][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.12.15-04.23.23:035][934]BlueprintLog: New page: Compile BP_Player
+[2019.12.15-04.23.23:043][934]LogBlueprint: Error: [Compiler BP_Player] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.12.15-04.23.23:187][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.12.15-04.23.48:746][709]BlueprintLog: New page: Compile BP_Player
+[2019.12.15-04.23.48:901][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.12.15-04.23.51:208][916]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-04.23.51:228][916]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.23.51:228][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-04.23.51:228][916]PIE: New page: PIE session: Untitled_1 (Dec 14, 2019, 12:23:51 PM)
+[2019.12.15-04.23.51:228][916]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.12.15-04.23.51:235][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006312s)
+[2019.12.15-04.23.51:236][916]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.15-04.23.51:236][916]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2019.12.15-04.23.51:236][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007795s)
+[2019.12.15-04.23.51:265][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.12.15-04.23.51:280][916]LogInit: XAudio2 using 'Speakers (2- USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-04.23.51:292][916]LogInit: FAudioDevice initialized.
+[2019.12.15-04.23.51:299][916]LogLoad: Game class is 'test_C'
+[2019.12.15-04.23.51:301][916]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.12.14-20.23.51
+[2019.12.15-04.23.51:301][916]LogWorld: Bringing up level for play took: 0.000656
+[2019.12.15-04.23.51:301][916]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.12.15-04.23.51:304][916]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.574
+[2019.12.15-04.23.51:304][916]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.24.14:068][472]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.24.14:068][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-04.24.14:068][472]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2019.12.15-04.24.14:068][472]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-04.24.14:077][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-04.24.14:077][472]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.24.14:106][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-04.24.14:109][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.12.15-04.24.14:171][478]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.12.15-04.24.15:253][599]Cmd: SELECT NONE
+[2019.12.15-04.24.15:642][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-04.24.30:174][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-04.25.34:208][585]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-04.25.34:224][585]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.25.34:224][585]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.15-04.25.34:225][585]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2019.12.15-04.25.34:399][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.12.15-04.25.34:399][585]LogPlayLevel: PlayLevel: Blueprint regeneration took 175 ms (1 blueprints)
+[2019.12.15-04.25.34:399][585]PIE: New page: PIE session: Untitled_1 (Dec 14, 2019, 12:25:34 PM)
+[2019.12.15-04.25.34:399][585]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.12.15-04.25.34:401][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001842s)
+[2019.12.15-04.25.34:402][585]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.15-04.25.34:402][585]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2019.12.15-04.25.34:402][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002779s)
+[2019.12.15-04.25.34:427][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.12.15-04.25.34:441][585]LogInit: XAudio2 using 'Speakers (2- USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-04.25.34:451][585]LogInit: FAudioDevice initialized.
+[2019.12.15-04.25.34:468][585]LogLoad: Game class is 'test_C'
+[2019.12.15-04.25.34:469][585]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.12.14-20.25.34
+[2019.12.15-04.25.34:470][585]LogWorld: Bringing up level for play took: 0.000981
+[2019.12.15-04.25.34:470][585]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.12.15-04.25.34:473][585]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.595
+[2019.12.15-04.25.34:473][585]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.25.41:344][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-04.25.42:944][  9]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.25.42:944][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-04.25.42:944][  9]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2019.12.15-04.25.42:944][  9]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-04.25.42:953][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-04.25.42:953][  9]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.25.42:994][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-04.25.42:997][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.12.15-04.25.43:043][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.12.15-04.25.45:457][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-04.26.03:907][ 37]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-04.26.03:924][ 37]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.26.03:924][ 37]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.15-04.26.03:925][ 37]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2019.12.15-04.26.04:093][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.12.15-04.26.04:093][ 37]LogPlayLevel: PlayLevel: Blueprint regeneration took 169 ms (1 blueprints)
+[2019.12.15-04.26.04:093][ 37]PIE: New page: PIE session: Untitled_1 (Dec 14, 2019, 12:26:04 PM)
+[2019.12.15-04.26.04:093][ 37]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.12.15-04.26.04:095][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001961s)
+[2019.12.15-04.26.04:096][ 37]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.15-04.26.04:096][ 37]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2019.12.15-04.26.04:096][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003030s)
+[2019.12.15-04.26.04:121][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.12.15-04.26.04:136][ 37]LogInit: XAudio2 using 'Speakers (2- USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-04.26.04:145][ 37]LogInit: FAudioDevice initialized.
+[2019.12.15-04.26.04:155][ 37]LogLoad: Game class is 'test_C'
+[2019.12.15-04.26.04:157][ 37]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.12.14-20.26.04
+[2019.12.15-04.26.04:157][ 37]LogWorld: Bringing up level for play took: 0.000959
+[2019.12.15-04.26.04:157][ 37]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2019.12.15-04.26.04:160][ 37]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.283
+[2019.12.15-04.26.04:160][ 37]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.26.36:194][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-04.26.37:527][453]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.26.37:527][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-04.26.37:527][453]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2019.12.15-04.26.37:527][453]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-04.26.37:534][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-04.26.37:534][453]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.26.37:565][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-04.26.37:568][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.12.15-04.26.37:627][458]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.12.15-04.26.42:127][920]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-04.26.42:142][920]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.26.42:142][920]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.15-04.26.42:143][920]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2019.12.15-04.26.42:303][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.12.15-04.26.42:303][920]LogPlayLevel: PlayLevel: Blueprint regeneration took 161 ms (1 blueprints)
+[2019.12.15-04.26.42:303][920]PIE: New page: PIE session: Untitled_1 (Dec 14, 2019, 12:26:42 PM)
+[2019.12.15-04.26.42:303][920]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.12.15-04.26.42:305][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002101s)
+[2019.12.15-04.26.42:306][920]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.15-04.26.42:306][920]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2019.12.15-04.26.42:306][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003100s)
+[2019.12.15-04.26.42:332][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.12.15-04.26.42:346][920]LogInit: XAudio2 using 'Speakers (2- USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-04.26.42:355][920]LogInit: FAudioDevice initialized.
+[2019.12.15-04.26.42:368][920]LogLoad: Game class is 'test_C'
+[2019.12.15-04.26.42:369][920]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.12.14-20.26.42
+[2019.12.15-04.26.42:369][920]LogWorld: Bringing up level for play took: 0.000960
+[2019.12.15-04.26.42:370][920]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2019.12.15-04.26.42:372][920]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.495
+[2019.12.15-04.26.42:373][920]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.26.50:847][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-04.27.09:302][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-04.27.15:539][844]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.27.15:539][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-04.27.15:539][844]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2019.12.15-04.27.15:539][844]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-04.27.15:546][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-04.27.15:546][844]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.27.15:576][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-04.27.15:579][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.12.15-04.27.15:646][850]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.12.15-04.27.22:829][514]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-04.27.22:844][514]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.15-04.27.22:844][514]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.15-04.27.22:844][514]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2019.12.15-04.27.23:010][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.12.15-04.27.23:010][514]LogPlayLevel: PlayLevel: Blueprint regeneration took 166 ms (1 blueprints)
+[2019.12.15-04.27.23:010][514]PIE: New page: PIE session: Untitled_1 (Dec 14, 2019, 12:27:23 PM)
+[2019.12.15-04.27.23:013][514]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.12.15-04.27.23:015][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002227s)
+[2019.12.15-04.27.23:016][514]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.15-04.27.23:016][514]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2019.12.15-04.27.23:016][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003234s)
+[2019.12.15-04.27.23:041][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.12.15-04.27.23:056][514]LogInit: XAudio2 using 'Speakers (2- USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-04.27.23:065][514]LogInit: FAudioDevice initialized.
+[2019.12.15-04.27.23:082][514]LogLoad: Game class is 'test_C'
+[2019.12.15-04.27.23:083][514]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.12.14-20.27.23
+[2019.12.15-04.27.23:084][514]LogWorld: Bringing up level for play took: 0.000685
+[2019.12.15-04.27.23:084][514]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2019.12.15-04.27.23:086][514]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.208
+[2019.12.15-04.27.23:086][514]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
