@@ -1,0 +1,949 @@
+﻿Log file open, 12/20/19 00:26:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: InfiniteMatrix
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.089228
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Engine.ini]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Engine.ini]
+[2019.12.20-08.26.49:433][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Engine.ini]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Engine.ini]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.20-08.26.49:433][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Engine.ini]
+[2019.12.20-08.26.49:433][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Engine.ini]
+[2019.12.20-08.26.49:435][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.20-08.26.49:435][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.20-08.26.49:436][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.20-08.26.49:436][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.20-08.26.49:436][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.20-08.26.49:439][  0]LogHAL: Display: Platform has ~ 16 GB [16999997440 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.20-08.26.49:439][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.20-08.26.49:439][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.20-08.26.49:439][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.20-08.26.49:440][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.20-08.26.49:440][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.20-08.26.49:440][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.20-08.26.49:440][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.20-08.26.49:440][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.20-08.26.49:440][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.20-08.26.49:440][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.20-08.26.49:440][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.20-08.26.49:440][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.20-08.26.49:440][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-08.26.49:440][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.20-08.26.49:440][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.20-08.26.49:440][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.20-08.26.49:440][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.20-08.26.49:440][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.20-08.26.49:440][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Config/Windows/Engine.ini]
+[2019.12.20-08.26.49:440][  0]LogInit: Computer: DESKTOP-JCBVA63
+[2019.12.20-08.26.49:440][  0]LogInit: User: handb
+[2019.12.20-08.26.49:440][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.20-08.26.49:440][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.20-08.26.49:440][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.12.20-08.26.49:440][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.20-08.26.49:440][  0]LogMemory: Process Physical Memory: 101.05 MB used, 101.06 MB peak
+[2019.12.20-08.26.49:440][  0]LogMemory: Process Virtual Memory: 100.80 MB used, 100.80 MB peak
+[2019.12.20-08.26.49:440][  0]LogMemory: Physical Memory: 13451.15 MB used,  2761.31 MB free, 16212.46 MB total
+[2019.12.20-08.26.49:440][  0]LogMemory: Virtual Memory: 4668.43 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.12.20-08.26.49:444][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.20-08.26.49:461][  0]LogInit: Using OS detected language (en-US).
+[2019.12.20-08.26.49:461][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.20-08.26.49:462][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.20-08.26.49:612][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.20-08.26.49:655][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.20-08.26.49:655][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.20-08.26.49:785][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.20-08.26.49:785][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.20-08.26.49:847][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.12.20-08.26.49:847][  0]LogD3D11RHI:       8088/0/8106 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.20-08.26.49:849][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.20-08.26.49:849][  0]LogD3D11RHI:       0/0/8106 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.20-08.26.49:849][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.20-08.26.49:859][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.20-08.26.49:859][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.20-08.26.49:859][  0]LogWindows: EnumDisplayDevices:
+[2019.12.20-08.26.49:859][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.12.20-08.26.49:859][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.20-08.26.49:859][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.20-08.26.49:859][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.20-08.26.49:860][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.20-08.26.49:860][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.12.20-08.26.49:860][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2019.12.20-08.26.49:860][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2019.12.20-08.26.49:860][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.12.20-08.26.49:895][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.20-08.26.49:914][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.20-08.26.50:203][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.20-08.26.50:211][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.20-08.26.50:220][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.20-08.26.50:228][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.20-08.26.50:237][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.20-08.26.50:245][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.20-08.26.50:253][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.20-08.26.50:261][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.20-08.26.50:265][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.20-08.26.50:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.20-08.26.50:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.20-08.26.50:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.20-08.26.50:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.20-08.26.50:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.20-08.26.50:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.20-08.26.50:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.20-08.26.50:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.20-08.26.50:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.20-08.26.50:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.20-08.26.50:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.20-08.26.50:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.20-08.26.50:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.20-08.26.50:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.20-08.26.50:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.20-08.26.50:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.20-08.26.50:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.20-08.26.50:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.20-08.26.50:299][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.20-08.26.50:314][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.20-08.26.50:314][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.20-08.26.50:327][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.20-08.26.50:327][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.20-08.26.50:333][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.20-08.26.50:339][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.20-08.26.50:346][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.20-08.26.50:352][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.20-08.26.50:372][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.20-08.26.50:372][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.20-08.26.50:372][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.20-08.26.50:380][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.20-08.26.50:426][  0]LogShaderCompilers: Guid format shader working directory is -60 characters bigger than the processId version (../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Intermediate/Shaders/WorkingDirectory/24208/).
+[2019.12.20-08.26.50:427][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/handb/AppData/Local/Temp/UnrealShaderWorkingDir/2045DEF04838136AE01DC997D147BDA9/'.
+[2019.12.20-08.26.50:429][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.20-08.26.50:429][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.20-08.26.50:429][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.20-08.26.50:921][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.20-08.26.50:974][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/handb/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.20-08.26.50:974][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/handb/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.20-08.26.50:975][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.20-08.26.50:975][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.20-08.26.50:975][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.20-08.26.50:975][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.20-08.26.50:984][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.20-08.26.50:984][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.20-08.26.50:984][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.20-08.26.50:985][  0]LogDerivedDataCache: Using Local data cache path C:/Users/handb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.20-08.26.50:985][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.20-08.26.50:985][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.20-08.26.51:002][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.20-08.26.51:004][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.20-08.26.51:005][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.20-08.26.51:055][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2019.12.20-08.26.51:440][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.20-08.26.51:580][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.20-08.26.51:580][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.20-08.26.51:580][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.20-08.26.51:580][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.20-08.26.51:580][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.20-08.26.51:592][  0]LogNetVersion: InfiniteMatrix 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2136420663)
+[2019.12.20-08.26.52:024][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.047714 seconds
+[2019.12.20-08.26.52:033][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.20-08.26.52:033][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.20-08.26.52:033][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.20-08.26.52:727][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.20-08.26.52:730][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.20-08.26.52:781][  0]SourceControl: Source control is disabled
+[2019.12.20-08.26.52:782][  0]SourceControl: Source control is disabled
+[2019.12.20-08.26.52:783][  0]SourceControl: Source control is disabled
+[2019.12.20-08.26.52:784][  0]SourceControl: Source control is disabled
+[2019.12.20-08.26.52:866][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.20-08.26.52:978][  0]LogOcInput: OculusInput pre-init called
+[2019.12.20-08.26.52:985][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.20-08.26.52:985][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.20-08.26.53:046][  0]LogEngine: Initializing Engine...
+[2019.12.20-08.26.53:047][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.20-08.26.53:048][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.20-08.26.53:247][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.20-08.26.53:259][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.20-08.26.53:340][  0]LogInit: XAudio2 using 'Speakers (2- USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.20-08.26.53:355][  0]LogInit: FAudioDevice initialized.
+[2019.12.20-08.26.53:355][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.20-08.26.53:648][  0]LogDerivedDataCache: Saved boot cache 0.29s 73MB C:/Users/handb/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.20-08.26.53:665][  0]LogInit: Texture streaming: Enabled
+[2019.12.20-08.26.53:687][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.20-08.26.53:687][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.20-08.26.53:688][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.20-08.26.53:746][  0]LogInit: Transaction tracking system initialized
+[2019.12.20-08.26.53:774][  0]BlueprintLog: New page: Editor Load
+[2019.12.20-08.26.53:843][  0]LocalizationService: Localization service is disabled
+[2019.12.20-08.26.54:049][  0]LogFileCache: Scanning file cache for directory 'C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Content/' took 0.00s
+[2019.12.20-08.26.54:049][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.20-08.26.54:049][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.20-08.26.54:204][  0]SourceControl: Source control is disabled
+[2019.12.20-08.26.54:208][  0]LightingResults: New page: Lighting Build
+[2019.12.20-08.26.54:210][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.20-08.26.54:211][  0]MapCheck: New page: Map Check
+[2019.12.20-08.26.54:211][  0]LightingResults: New page: Lighting Build
+[2019.12.20-08.26.54:229][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.12.20-08.26.54:456][  0]LogAIModule: Creating AISystem for world TutorialMap
+[2019.12.20-08.26.54:459][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.20-08.26.54:481][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.12.20-08.26.54:481][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.20-08.26.54:481][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.144ms to complete.
+[2019.12.20-08.26.54:481][  0]LogFileHelpers: Loading map 'TutorialMap' took 0.277
+[2019.12.20-08.26.54:596][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.20-08.26.54:604][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.20-08.26.54:613][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.20-08.26.54:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.20-08.26.54:629][  0]LogCollectionManager: Loaded 0 collections in 0.002615 seconds
+[2019.12.20-08.26.54:637][  0]LogFileCache: Scanning file cache for directory 'C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Collections/' took 0.00s
+[2019.12.20-08.26.54:637][  0]LogFileCache: Scanning file cache for directory 'C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Content/Developers/handb/Collections/' took 0.00s
+[2019.12.20-08.26.54:637][  0]LogFileCache: Scanning file cache for directory 'C:/Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Content/Collections/' took 0.00s
+[2019.12.20-08.26.54:637][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.20-08.26.54:645][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2863 classes and 680 folders.
+[2019.12.20-08.26.54:651][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.20-08.26.54:688][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.20-08.26.54:694][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.12.20-08.26.54:783][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.20-08.26.54:785][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.20-08.26.54:790][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.20-08.26.54:879][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2019.12.20-08.26.55:059][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.20-08.26.55:059][  0]LogLoad: (Engine Initialization) Total time: 6.68 seconds
+[2019.12.20-08.26.55:059][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.20-08.26.55:117][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.20-08.26.55:131][  0]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.20-08.26.55:162][  1]LogAssetRegistry: Asset discovery search completed in 4.1072 seconds
+[2019.12.20-08.26.55:165][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2019.12.20-08.26.55:165][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000078 seconds (updated 0 objects)
+[2019.12.20-08.26.56:548][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.20-08.27.06:307][298]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.20-08.27.06:320][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.20-08.27.06:320][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.20-08.27.06:320][298]PIE: New page: PIE session: TutorialMap (Dec 19, 2019, 4:27:06 PM)
+[2019.12.20-08.27.06:321][298]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.20-08.27.06:322][298]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.20-08.27.06:325][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002377s)
+[2019.12.20-08.27.06:326][298]LogAIModule: Creating AISystem for world TutorialMap
+[2019.12.20-08.27.06:326][298]LogPlayLevel: PIE: World Init took: (0.001499s)
+[2019.12.20-08.27.06:326][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004121s)
+[2019.12.20-08.27.06:344][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.12.20-08.27.06:357][298]LogInit: XAudio2 using 'Speakers (2- USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.20-08.27.06:367][298]LogInit: FAudioDevice initialized.
+[2019.12.20-08.27.06:379][298]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.12.20-08.27.06:380][298]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2019.12.20-00.27.06
+[2019.12.20-08.27.06:381][298]LogWorld: Bringing up level for play took: 0.000477
+[2019.12.20-08.27.06:381][298]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.12.20-08.27.06:388][298]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.20-08.27.06:392][298]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.465
+[2019.12.20-08.27.06:392][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.20-08.27.29:389][303]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Voxel Assets/Tree_XL.obj)
+[2019.12.20-08.27.29:396][303]LogFbx: Loading FBX Scene from E:/Voxel Assets/Tree_XL.obj
+[2019.12.20-08.27.29:400][303]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.20-08.27.30:637][303]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.20-08.27.30:773][303]LogStaticMesh: Building static mesh Tree_XL...
+[2019.12.20-08.27.30:777][303]LogStaticMesh: Built static mesh [0.00s] /Game/InfiniteMatrix/Meshes/Tree_XL.Tree_XL
+[2019.12.20-08.27.30:778][303]LogStaticMesh: Warning: Tree_XL has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.20-08.27.30:778][303]LogStaticMesh: Warning: Tree_XL has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.20-08.27.30:785][303]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.20-08.27.30:785][303]FBXImport: Warning: Tree_XL has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.20-08.27.30:785][303]FBXImport: Warning: Tree_XL has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.20-08.27.30:804][303]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Voxel Assets/Tree_L.obj)
+[2019.12.20-08.27.30:809][303]LogFbx: Loading FBX Scene from E:/Voxel Assets/Tree_L.obj
+[2019.12.20-08.27.30:815][303]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.20-08.27.30:819][303]LogStaticMesh: Building static mesh Tree_L...
+[2019.12.20-08.27.30:819][303]LogStaticMesh: Built static mesh [0.00s] /Game/InfiniteMatrix/Meshes/Tree_L.Tree_L
+[2019.12.20-08.27.30:819][303]LogStaticMesh: Warning: Tree_L has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.20-08.27.30:819][303]LogStaticMesh: Warning: Tree_L has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.20-08.27.30:826][303]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.20-08.27.30:826][303]FBXImport: Warning: Tree_L has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.20-08.27.30:826][303]FBXImport: Warning: Tree_L has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.20-08.27.30:829][303]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Voxel Assets/Tree_M.obj)
+[2019.12.20-08.27.30:833][303]LogFbx: Loading FBX Scene from E:/Voxel Assets/Tree_M.obj
+[2019.12.20-08.27.30:838][303]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.20-08.27.30:842][303]LogStaticMesh: Building static mesh Tree_M...
+[2019.12.20-08.27.30:843][303]LogStaticMesh: Built static mesh [0.00s] /Game/InfiniteMatrix/Meshes/Tree_M.Tree_M
+[2019.12.20-08.27.30:843][303]LogStaticMesh: Warning: Tree_M has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.20-08.27.30:843][303]LogStaticMesh: Warning: Tree_M has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.20-08.27.30:849][303]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.20-08.27.30:850][303]FBXImport: Warning: Tree_M has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.20-08.27.30:850][303]FBXImport: Warning: Tree_M has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.20-08.27.30:853][303]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Voxel Assets/Tree_S.obj)
+[2019.12.20-08.27.30:857][303]LogFbx: Loading FBX Scene from E:/Voxel Assets/Tree_S.obj
+[2019.12.20-08.27.30:860][303]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.20-08.27.30:864][303]LogStaticMesh: Building static mesh Tree_S...
+[2019.12.20-08.27.30:864][303]LogStaticMesh: Built static mesh [0.00s] /Game/InfiniteMatrix/Meshes/Tree_S.Tree_S
+[2019.12.20-08.27.30:865][303]LogStaticMesh: Warning: Tree_S has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.20-08.27.30:865][303]LogStaticMesh: Warning: Tree_S has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.20-08.27.30:871][303]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.20-08.27.30:871][303]FBXImport: Warning: Tree_S has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.20-08.27.30:871][303]FBXImport: Warning: Tree_S has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.20-08.27.30:875][303]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Voxel Assets/RR_track.obj)
+[2019.12.20-08.27.30:882][303]LogFbx: Loading FBX Scene from E:/Voxel Assets/RR_track.obj
+[2019.12.20-08.27.30:892][303]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.20-08.27.30:897][303]LogStaticMesh: Building static mesh RR_track...
+[2019.12.20-08.27.30:900][303]LogStaticMesh: Built static mesh [0.00s] /Game/InfiniteMatrix/Meshes/RR_track.RR_track
+[2019.12.20-08.27.30:901][303]LogStaticMesh: Warning: RR_track has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.20-08.27.30:901][303]LogStaticMesh: Warning: RR_track has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.20-08.27.30:908][303]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.20-08.27.30:908][303]FBXImport: Warning: RR_track has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.20-08.27.30:908][303]FBXImport: Warning: RR_track has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.20-08.27.30:911][303]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Voxel Assets/dark_grass.obj)
+[2019.12.20-08.27.30:916][303]LogFbx: Loading FBX Scene from E:/Voxel Assets/dark_grass.obj
+[2019.12.20-08.27.30:920][303]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.20-08.27.30:925][303]LogStaticMesh: Building static mesh dark_grass...
+[2019.12.20-08.27.30:925][303]LogStaticMesh: Built static mesh [0.00s] /Game/InfiniteMatrix/Meshes/dark_grass.dark_grass
+[2019.12.20-08.27.30:925][303]LogStaticMesh: Warning: dark_grass has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.20-08.27.30:925][303]LogStaticMesh: Warning: dark_grass has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.20-08.27.30:934][303]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.20-08.27.30:934][303]FBXImport: Warning: dark_grass has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.20-08.27.30:934][303]FBXImport: Warning: dark_grass has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.20-08.27.30:937][303]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Voxel Assets/coin.obj)
+[2019.12.20-08.27.30:942][303]LogFbx: Loading FBX Scene from E:/Voxel Assets/coin.obj
+[2019.12.20-08.27.30:948][303]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.20-08.27.30:952][303]LogStaticMesh: Building static mesh coin...
+[2019.12.20-08.27.30:953][303]LogStaticMesh: Built static mesh [0.00s] /Game/InfiniteMatrix/Meshes/coin.coin
+[2019.12.20-08.27.30:953][303]LogStaticMesh: Warning: coin has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.20-08.27.30:953][303]LogStaticMesh: Warning: coin has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.20-08.27.30:960][303]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.20-08.27.30:960][303]FBXImport: Warning: coin has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.20-08.27.30:960][303]FBXImport: Warning: coin has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.20-08.27.30:963][303]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Voxel Assets/RR_sign.obj)
+[2019.12.20-08.27.30:968][303]LogFbx: Loading FBX Scene from E:/Voxel Assets/RR_sign.obj
+[2019.12.20-08.27.30:971][303]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.20-08.27.30:975][303]LogStaticMesh: Building static mesh RR_sign...
+[2019.12.20-08.27.30:976][303]LogStaticMesh: Built static mesh [0.00s] /Game/InfiniteMatrix/Meshes/RR_sign.RR_sign
+[2019.12.20-08.27.30:976][303]LogStaticMesh: Warning: RR_sign has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.20-08.27.30:976][303]LogStaticMesh: Warning: RR_sign has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.20-08.27.30:985][303]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.20-08.27.30:985][303]FBXImport: Warning: RR_sign has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.20-08.27.30:985][303]FBXImport: Warning: RR_sign has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.20-08.27.30:988][303]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Voxel Assets/light_grass.obj)
+[2019.12.20-08.27.30:992][303]LogFbx: Loading FBX Scene from E:/Voxel Assets/light_grass.obj
+[2019.12.20-08.27.30:997][303]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.20-08.27.31:002][303]LogStaticMesh: Building static mesh light_grass...
+[2019.12.20-08.27.31:002][303]LogStaticMesh: Built static mesh [0.00s] /Game/InfiniteMatrix/Meshes/light_grass.light_grass
+[2019.12.20-08.27.31:002][303]LogStaticMesh: Warning: light_grass has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.20-08.27.31:002][303]LogStaticMesh: Warning: light_grass has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.20-08.27.31:009][303]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.20-08.27.31:009][303]FBXImport: Warning: light_grass has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.20-08.27.31:009][303]FBXImport: Warning: light_grass has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.20-08.27.31:012][303]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Voxel Assets/dark_grass-0.obj)
+[2019.12.20-08.27.31:018][303]LogFbx: Loading FBX Scene from E:/Voxel Assets/dark_grass-0.obj
+[2019.12.20-08.27.31:023][303]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.20-08.27.31:027][303]LogStaticMesh: Building static mesh dark_grass-0...
+[2019.12.20-08.27.31:027][303]LogStaticMesh: Built static mesh [0.00s] /Game/InfiniteMatrix/Meshes/dark_grass-0.dark_grass-0
+[2019.12.20-08.27.31:028][303]LogStaticMesh: Warning: dark_grass-0 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.20-08.27.31:028][303]LogStaticMesh: Warning: dark_grass-0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.20-08.27.31:035][303]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.20-08.27.31:035][303]FBXImport: Warning: dark_grass-0 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.20-08.27.31:035][303]FBXImport: Warning: dark_grass-0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.20-08.27.31:037][303]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Voxel Assets/dark_grass-1.obj)
+[2019.12.20-08.27.31:043][303]LogFbx: Loading FBX Scene from E:/Voxel Assets/dark_grass-1.obj
+[2019.12.20-08.27.31:048][303]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.20-08.27.31:052][303]LogStaticMesh: Building static mesh dark_grass-1...
+[2019.12.20-08.27.31:052][303]LogStaticMesh: Built static mesh [0.00s] /Game/InfiniteMatrix/Meshes/dark_grass-1.dark_grass-1
+[2019.12.20-08.27.31:052][303]LogStaticMesh: Warning: dark_grass-1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.20-08.27.31:052][303]LogStaticMesh: Warning: dark_grass-1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.20-08.27.31:059][303]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.20-08.27.31:060][303]FBXImport: Warning: dark_grass-1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.20-08.27.31:060][303]FBXImport: Warning: dark_grass-1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.20-08.27.31:062][303]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Voxel Assets/dark_grass-2.obj)
+[2019.12.20-08.27.31:068][303]LogFbx: Loading FBX Scene from E:/Voxel Assets/dark_grass-2.obj
+[2019.12.20-08.27.31:071][303]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.20-08.27.31:075][303]LogStaticMesh: Building static mesh dark_grass-2...
+[2019.12.20-08.27.31:075][303]LogStaticMesh: Built static mesh [0.00s] /Game/InfiniteMatrix/Meshes/dark_grass-2.dark_grass-2
+[2019.12.20-08.27.31:075][303]LogStaticMesh: Warning: dark_grass-2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.20-08.27.31:076][303]LogStaticMesh: Warning: dark_grass-2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.20-08.27.31:083][303]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.20-08.27.31:083][303]FBXImport: Warning: dark_grass-2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.20-08.27.31:083][303]FBXImport: Warning: dark_grass-2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.20-08.27.31:086][303]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Voxel Assets/cop_car.obj)
+[2019.12.20-08.27.31:091][303]LogFbx: Loading FBX Scene from E:/Voxel Assets/cop_car.obj
+[2019.12.20-08.27.31:100][303]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.20-08.27.31:106][303]LogStaticMesh: Building static mesh cop_car...
+[2019.12.20-08.27.31:109][303]LogStaticMesh: Built static mesh [0.00s] /Game/InfiniteMatrix/Meshes/cop_car.cop_car
+[2019.12.20-08.27.31:109][303]LogStaticMesh: Warning: cop_car has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.20-08.27.31:110][303]LogStaticMesh: Warning: cop_car has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.20-08.27.31:119][303]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.20-08.27.31:120][303]FBXImport: Warning: cop_car has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.20-08.27.31:120][303]FBXImport: Warning: cop_car has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.20-08.27.31:123][303]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Voxel Assets/chicken.obj)
+[2019.12.20-08.27.31:128][303]LogFbx: Loading FBX Scene from E:/Voxel Assets/chicken.obj
+[2019.12.20-08.27.31:134][303]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.20-08.27.31:139][303]LogStaticMesh: Building static mesh chicken...
+[2019.12.20-08.27.31:140][303]LogStaticMesh: Built static mesh [0.00s] /Game/InfiniteMatrix/Meshes/chicken.chicken
+[2019.12.20-08.27.31:141][303]LogStaticMesh: Warning: chicken has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.20-08.27.31:141][303]LogStaticMesh: Warning: chicken has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.20-08.27.31:150][303]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.20-08.27.31:150][303]FBXImport: Warning: chicken has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.20-08.27.31:150][303]FBXImport: Warning: chicken has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.20-08.27.33:165][501]LogSlate: Window 'Message Log' being destroyed
+[2019.12.20-08.27.33:172][501]LogSlate: Window 'Message Log' being destroyed
+[2019.12.20-08.27.34:814][675]LogSavePackage: Moving '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/chicken528A2DB34CE21F2E228104951CD4F9A9.tmp' to '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Content/InfiniteMatrix/Meshes/chicken.uasset'
+[2019.12.20-08.27.34:841][675]LogSavePackage: Moving '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/coinB06C310E4C0A8871F57D6BAEB507E285.tmp' to '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Content/InfiniteMatrix/Meshes/coin.uasset'
+[2019.12.20-08.27.34:867][675]LogSavePackage: Moving '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/cop_car620946E54A621347B6D11981BB0BF318.tmp' to '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Content/InfiniteMatrix/Meshes/cop_car.uasset'
+[2019.12.20-08.27.34:892][675]LogSavePackage: Moving '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/dark_grass40D9022942FB55B39D9C46971022C050.tmp' to '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Content/InfiniteMatrix/Meshes/dark_grass.uasset'
+[2019.12.20-08.27.34:917][675]LogSavePackage: Moving '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/dark_grass-05602E3964B8F34EB5631FDA0B1DF2BB4.tmp' to '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Content/InfiniteMatrix/Meshes/dark_grass-0.uasset'
+[2019.12.20-08.27.34:946][675]LogSavePackage: Moving '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/dark_grass-16E2CE7A146B3BBBCF4A515AF8D01C6E4.tmp' to '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Content/InfiniteMatrix/Meshes/dark_grass-1.uasset'
+[2019.12.20-08.27.34:972][675]LogSavePackage: Moving '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/dark_grass-2B49E8DC245C4000669099FABA4FD3E53.tmp' to '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Content/InfiniteMatrix/Meshes/dark_grass-2.uasset'
+[2019.12.20-08.27.35:000][675]LogSavePackage: Moving '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/light_grassF1B9DCAB41D8B0C8AE5CE7B4E5D9F7AD.tmp' to '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Content/InfiniteMatrix/Meshes/light_grass.uasset'
+[2019.12.20-08.27.35:025][675]LogSavePackage: Moving '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/RR_sign0C5A2E334DDCC8079859E581C07A61E0.tmp' to '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Content/InfiniteMatrix/Meshes/RR_sign.uasset'
+[2019.12.20-08.27.35:051][675]LogSavePackage: Moving '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/RR_track6F440EE34B8C06EF79EF01BB881F3128.tmp' to '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Content/InfiniteMatrix/Meshes/RR_track.uasset'
+[2019.12.20-08.27.35:076][675]LogSavePackage: Moving '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Tree_LDB3F7BB7452939D005398691D30039F5.tmp' to '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Content/InfiniteMatrix/Meshes/Tree_L.uasset'
+[2019.12.20-08.27.35:101][675]LogSavePackage: Moving '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Tree_MDE92AD054D33B0494036FC9B7C01129B.tmp' to '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Content/InfiniteMatrix/Meshes/Tree_M.uasset'
+[2019.12.20-08.27.35:128][675]LogSavePackage: Moving '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Tree_SD33BC4B94957731B58C609BAD473BFFE.tmp' to '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Content/InfiniteMatrix/Meshes/Tree_S.uasset'
+[2019.12.20-08.27.35:155][675]LogSavePackage: Moving '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Saved/Tree_XL9B0CD78C42B604E338E94CA528B69E87.tmp' to '../../../../../Users/handb/Desktop/crossy 4/RPY_CrossyRoad/Chick plus infinite/InfiniteMatrixStarter 4.23/Content/InfiniteMatrix/Meshes/Tree_XL.uasset'
+[2019.12.20-08.27.53:962][874]Cmd: SELECT NONE
+[2019.12.20-08.27.54:529][942]Cmd: SELECT NONE
+[2019.12.20-08.27.54:738][967]Cmd: SELECT NONE
+[2019.12.20-08.27.54:921][989]Cmd: SELECT NONE
+[2019.12.20-08.27.55:425][ 49]Cmd: SELECT NONE
+[2019.12.20-08.27.55:675][ 79]Cmd: SELECT NONE
+[2019.12.20-08.27.55:950][112]Cmd: SELECT NONE
+[2019.12.20-08.27.56:162][135]Cmd: SELECT NONE
+[2019.12.20-08.27.56:422][166]Cmd: SELECT NONE
+[2019.12.20-08.27.57:274][268]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/Player_BP.Player_BP
+[2019.12.20-08.27.57:420][268]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.12.20-08.27.58:203][268]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.20-08.27.58:232][269]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.20-08.28.06:127][180]LogSlate: Window 'Player_BP' being destroyed
+[2019.12.20-08.28.06:135][180]LogSlate: Window 'Player_BP' being destroyed
+[2019.12.20-08.28.06:142][180]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.20-08.28.11:367][786]Cmd: SELECT NONE
+[2019.12.20-08.28.11:692][825]Cmd: SELECT NONE
+[2019.12.20-08.28.12:198][885]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.20-08.28.12:198][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.20-08.28.12:198][885]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.20-08.28.12:198][885]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.20-08.28.12:207][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.20-08.28.12:207][885]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.20-08.28.12:232][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.20-08.28.12:236][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.12.20-08.28.12:296][891]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.20-08.28.12:430][907]Cmd: SELECT NONE
+[2019.12.20-08.28.12:694][938]Cmd: SELECT NONE
+[2019.12.20-08.28.12:939][963]Cmd: SELECT NONE
+[2019.12.20-08.28.13:330][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.20-08.28.14:259][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.12.20-08.28.15:859][116]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.20-08.28.26:837][116]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/InfiniteMatrix/Blueprints/Player_BP.Player_BP
+[2019.12.20-08.28.26:846][116]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.20-08.28.27:362][116]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.12.20-08.28.27:530][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.12.20-08.28.27:556][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.12.20-08.28.27:580][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.12.20-08.30.05:355][501]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.20-08.30.05:368][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.20-08.30.05:368][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.20-08.30.05:368][501]PIE: New page: PIE session: TutorialMap (Dec 19, 2019, 4:30:05 PM)
+[2019.12.20-08.30.05:368][501]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.20-08.30.05:370][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001535s)
+[2019.12.20-08.30.05:371][501]LogAIModule: Creating AISystem for world TutorialMap
+[2019.12.20-08.30.05:371][501]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2019.12.20-08.30.05:371][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002765s)
+[2019.12.20-08.30.05:392][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.12.20-08.30.05:408][501]LogInit: XAudio2 using 'Speakers (2- USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.20-08.30.05:418][501]LogInit: FAudioDevice initialized.
+[2019.12.20-08.30.05:428][501]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.12.20-08.30.05:429][501]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2019.12.20-00.30.05
+[2019.12.20-08.30.05:429][501]LogWorld: Bringing up level for play took: 0.000343
+[2019.12.20-08.30.05:429][501]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.12.20-08.30.05:434][501]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.493
+[2019.12.20-08.30.05:435][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.20-08.30.08:674][888]Cmd: SELECT NONE
+[2019.12.20-08.30.13:670][475]LogLinker: Warning: Failed to load '/Game/Assets/Blueprints/BP_Player1': Can't find file.
+[2019.12.20-08.30.13:670][475]LogLinker: Warning: Failed to load '/Game/Assets/Blueprints/BP_Player1': Can't find file.
+[2019.12.20-08.30.13:670][475]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Assets/Blueprints/BP_Player1.BP_Player1_C'
+[2019.12.20-08.30.13:670][475]EditorErrors: Error: Failed to load class /Game/Assets/Blueprints/BP_Player1.BP_Player1_C
+[2019.12.20-08.30.15:230][657]Cmd: SELECT NONE
+[2019.12.20-08.30.16:744][838]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.20-08.30.16:744][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.20-08.30.16:744][838]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.20-08.30.16:745][838]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.20-08.30.16:754][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.20-08.30.16:754][838]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.20-08.30.16:780][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.20-08.30.16:783][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.12.20-08.30.16:845][845]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.20-08.30.17:615][937]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.20-08.30.17:629][937]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.20-08.30.17:629][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.20-08.30.17:629][937]PIE: New page: PIE session: TutorialMap (Dec 19, 2019, 4:30:17 PM)
+[2019.12.20-08.30.17:629][937]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.20-08.30.17:630][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001518s)
+[2019.12.20-08.30.17:631][937]LogAIModule: Creating AISystem for world TutorialMap
+[2019.12.20-08.30.17:631][937]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2019.12.20-08.30.17:631][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002363s)
+[2019.12.20-08.30.17:655][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.12.20-08.30.17:669][937]LogInit: XAudio2 using 'Speakers (2- USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.20-08.30.17:678][937]LogInit: FAudioDevice initialized.
+[2019.12.20-08.30.17:684][937]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.12.20-08.30.17:686][937]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2019.12.20-00.30.17
+[2019.12.20-08.30.17:686][937]LogWorld: Bringing up level for play took: 0.000367
+[2019.12.20-08.30.17:686][937]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.20-08.30.17:691][937]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.236
+[2019.12.20-08.30.17:691][937]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.20-08.30.22:006][440]Cmd: SELECT NONE
+[2019.12.20-08.30.22:264][471]Cmd: SELECT NONE
+[2019.12.20-08.30.22:483][493]Cmd: SELECT NONE
+[2019.12.20-08.30.24:471][701]Cmd: SELECT NONE
+[2019.12.20-08.30.24:723][730]Cmd: SELECT NONE
+[2019.12.20-08.30.24:954][751]LogEditorViewport: Clicking Background
+[2019.12.20-08.30.25:046][760]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.20-08.30.25:046][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.20-08.30.25:046][760]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2019.12.20-08.30.25:047][760]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.20-08.30.25:059][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.20-08.30.25:059][760]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.12.20-08.30.25:086][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.20-08.30.25:089][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.12.20-08.30.25:145][766]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.20-08.30.25:304][785]Cmd: SELECT NONE
+[2019.12.20-08.30.25:541][813]Cmd: SELECT NONE
+[2019.12.20-08.30.26:361][905]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.20-08.30.27:735][ 64]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.20-08.30.27:735][ 64]EditorErrors: Error: Failed to load class /Game/Assets/Blueprints/BP_Player1.BP_Player1_C
+[2019.12.20-08.30.30:884][426]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.20-08.30.32:332][598]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.20-08.30.32:333][598]EditorErrors: Error: Failed to load class /Game/Assets/Blueprints/BP_Player1.BP_Player1_C
+[2019.12.20-08.30.34:528][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.20-08.30.38:221][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.12.20-08.30.39:659][275]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.20-08.30.40:259][275]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/InfiniteMatrix/Blueprints/GM_Tutorial.GM_Tutorial
+[2019.12.20-08.30.40:566][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.12.20-08.30.40:589][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.12.20-08.30.40:611][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.12.20-08.30.40:775][291]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner
+[2019.12.20-08.30.41:155][292]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.20-08.30.41:984][292]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.830 s
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: 
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: Ensure condition failed: Class != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/PropertyEditor/Private/UserInterface/PropertyEditor/SPropertyEditorAsset.cpp] [Line: 1291]
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: Property (ObjectProperty /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner_C:Player) is not an object or interface class
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: Stack: 
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: [Callstack] 0x00007fffa0df3c7c UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: [Callstack] 0x00007fffa0c6c7de UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: [Callstack] 0x00007fffa0aeb377 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: [Callstack] 0x00007fffa0b52957 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: [Callstack] 0x00007fffa0b501ef UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: [Callstack] 0x00007fffa09e8c90 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: [Callstack] 0x00007fffa0a47ec2 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: [Callstack] 0x00007fffa0a3a94c UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: [Callstack] 0x00007fffa0a3a80f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: [Callstack] 0x00007fffa0c641ba UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: [Callstack] 0x00007fffa09e6aeb UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: [Callstack] 0x00007fffa0a2598e UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: [Callstack] 0x00007fffa0cde2cc UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: [Callstack] 0x00007fffa0ca2e53 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: [Callstack] 0x00007fffa0cb5600 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: [Callstack] 0x00007fffa0cb6d8b UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: [Callstack] 0x00007fffa0cf683f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.20-08.30.41:984][292]LogOutputDevice: Error: [Callstack] 0x00007fffb9be1ba6 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffa0d0d9da UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689a91 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6687c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb9b8f4a9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6687c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb9b8f27e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6687c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6687c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb9b8f27e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6687c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb9b93f64 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6687c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6687c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6687c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb9b8f27e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6687c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb9b93f64 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6687c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6687c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668872a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb6689db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb668a75e UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: [Callstack] 0x00007fffb99839e6 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.20-08.30.41:985][292]LogOutputDevice: Error: 
+[2019.12.20-08.30.41:986][292]LogStats:                SubmitErrorReport -  0.000 s
